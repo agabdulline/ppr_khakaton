@@ -1,0 +1,2506 @@
+[
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2025-03-30T15:31:24.095482+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "148596036",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 4,
+        "region_id": 18,
+        "source": null,
+        "text": "Оплачивал наличкой, деньги случайно упали в щель между стенкой и столиком, на что тётенька, закатив глаза, сказала: \n-Вы чё все без_рукие?!\nТо есть это явно не первый случай. Обозвать клиента это нормально, а придвинуть стол вплотную к стене видимо сложнее.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Сергей Кири",
+            "id": "49617288",
+            "last_name": null,
+            "name": "Сергей Кири",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "71a149c611a341e684a4becc5c1ccc45",
+            "reviews_count": 6,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2024-05-30T15:41:30.862913+07:00",
+        "date_edited": "2025-03-20T14:15:25.852614+07:00",
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "84632221",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2024-05-30T16:09:25.035992+07:00",
+            "id": "30101511",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Здравствуйте, спасибо за отзыв и высокую оценку. Сейчас всё топливо поставляется с завода Танэко (Татнефть), приезжайте!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 4,
+        "region_id": 18,
+        "source": null,
+        "text": "95й не плохой , по расходу норм , но всё равно иногда пальцы звенят . ДТ хоть и говорят , что с Роснефти , но расход больше , чем ДТ на самой Роснефти\n\n",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Red",
+            "id": "22217980",
+            "last_name": null,
+            "name": "Red",
+            "photo_preview_urls": {
+                "1920x": "https://i0.photo.2gis.com/images/profile/844424968432674_2268_1920x.jpg",
+                "320x": "https://i0.photo.2gis.com/images/profile/844424968432674_2268_320x.jpg",
+                "640x": "https://i0.photo.2gis.com/images/profile/844424968432674_2268_640x.jpg",
+                "64x64": "https://i0.photo.2gis.com/images/profile/844424968432674_2268_64x64.jpg",
+                "url": "https://i0.photo.2gis.com/images/profile/844424968432674_2268.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "70b0855f0def4eca99780b2c113c130f",
+            "reviews_count": 37,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2024-11-21T17:05:50.732142+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "123206630",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2024-11-21T18:24:02.966585+07:00",
+            "id": "38087299",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Здравствуйте. Напишите пожалуйста дату, когда вы заправлялись и ваше авто. Цена по карте это основная цена. Но есть ещё акция, по условиям которой, вы можете заправиться со скидкой. С условиями акции вы можете ознакомится на наших АЗС. Вы сами выбираете выполнить условия акции и сэкономить или не выполнить и соответственно не сэкономить! И наш сотрудник вас об этом предупредил."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 1,
+        "region_id": 18,
+        "source": null,
+        "text": "Приехал заправить авто 92-м, спросил, картой заправиться можно?, на что мне дедулька заправщик ответил, да можно, но цена будет дороже, и того ценник выходит, если заправляться 92-м по карте, как буд-то вы бы заправились 95...Дичь полнейшая, клиенты должны оплачивать их проценты банку... Меня как клиента не волнует, по карте оплачивать или за наличку, ценник должен быть один... Удачи...",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Aleks 555",
+            "id": "33489206",
+            "last_name": null,
+            "name": "Aleks 555",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "c3478afbf20d42289ad3b4b6d51b3e36",
+            "reviews_count": 3,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 4,
+        "date_created": "2024-05-08T20:55:31.888895+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "81984461",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2024-05-08T21:10:26.066817+07:00",
+            "id": "29238520",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Здравствуйте, напишите пожалуйста в какое время это было и какой автомобиль. Мы проверим по камерам действия сотрудника."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 1,
+        "region_id": 18,
+        "source": null,
+        "text": "Попросил заправить 10 литров. Заправщик с наколкой на руке залил мне на 500 рублей. Не понимаю в чем проблема. На мой вопрос почему не 10 литров начал хамить",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Вячеслав Матросов",
+            "id": "41633692",
+            "last_name": null,
+            "name": "Вячеслав Матросов",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "adfa69767e344150835f9276ac040afb",
+            "reviews_count": 1,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2024-04-15T16:24:23.011829+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "79164629",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Хорошая заправка, заправляюсь тут, с авто все окей",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Артур Жилкин",
+            "id": "51628902",
+            "last_name": null,
+            "name": "Артур Жилкин",
+            "photo_preview_urls": {
+                "1920x": "https://i1.photo.2gis.com/images/profile/30258560176944431_c6e7_1920x.jpg",
+                "320x": "https://i1.photo.2gis.com/images/profile/30258560176944431_c6e7_320x.jpg",
+                "640x": "https://i1.photo.2gis.com/images/profile/30258560176944431_c6e7_640x.jpg",
+                "64x64": "https://i1.photo.2gis.com/images/profile/30258560176944431_c6e7_64x64.jpg",
+                "url": "https://i1.photo.2gis.com/images/profile/30258560176944431_c6e7.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "8a06f1425ab74bc880364ee29190dd56",
+            "reviews_count": 2,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2024-03-24T13:04:05.78112+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "76947899",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2024-10-08T20:04:51.806864+07:00",
+            "id": "35927797",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Thank you!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Excellent gas station. High-quality gasoline and reasonable prices!!! They are actually highly decorated.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "MD Omar Faruk",
+            "id": "49433782",
+            "last_name": null,
+            "name": "MD Omar Faruk",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "47cc02cec5da4ac7bb1651b1a2ad9477",
+            "reviews_count": 27,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2023-03-29T15:00:51.718653+07:00",
+        "date_edited": "2024-02-08T00:04:10.349741+07:00",
+        "emojis": [
+            {
+                "count": 2,
+                "date_created": "2024-10-22T17:15:13.965977+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2025-03-30T15:25:17.516252+07:00",
+                        "user": {
+                            "id": "49617288",
+                            "name": "Сергей Кири",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "71a149c611a341e684a4becc5c1ccc45"
+                        }
+                    },
+                    {
+                        "date_created": "2024-10-22T17:15:13.965977+07:00",
+                        "user": {
+                            "id": "18163889",
+                            "name": "Sereja M",
+                            "photo_preview_urls": {
+                                "1920x": "https://i2.photo.2gis.com/images/profile/844424968424024_7f94_1920x.jpg",
+                                "320x": "https://i2.photo.2gis.com/images/profile/844424968424024_7f94_320x.jpg",
+                                "640x": "https://i2.photo.2gis.com/images/profile/844424968424024_7f94_640x.jpg",
+                                "64x64": "https://i2.photo.2gis.com/images/profile/844424968424024_7f94_64x64.jpg",
+                                "url": "https://i2.photo.2gis.com/images/profile/844424968424024_7f94.jpg"
+                            },
+                            "public_id": "8deda6093e09434ebc3724a424ade29a"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "48033778",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 2,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-09-23T15:57:01.640153+07:00",
+            "id": "21474138",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Здравствуйте, подъезд отремонтирован, площадка заасфальтирована, приезжайте!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Начал заправляться тут, пока всё нормально. Сделайте проезд к вашей заправке более удобным! Ну хоть щебня накидайте санфировой /ташкенская ужасный проезд к вам. ",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Алексей Дмитриевич",
+            "id": "24438908",
+            "last_name": null,
+            "name": "Алексей Дмитриевич",
+            "photo_preview_urls": {
+                "1920x": "https://i1.photo.2gis.com/images/profile/30258560050347951_d89e_1920x.jpg",
+                "320x": "https://i1.photo.2gis.com/images/profile/30258560050347951_d89e_320x.jpg",
+                "640x": "https://i1.photo.2gis.com/images/profile/30258560050347951_d89e_640x.jpg",
+                "64x64": "https://i1.photo.2gis.com/images/profile/30258560050347951_d89e_64x64.jpg",
+                "url": "https://i1.photo.2gis.com/images/profile/30258560050347951_d89e.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "785be4e31ec045b79e90f848d330c2cd",
+            "reviews_count": 10,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-12-18T16:05:33.04081+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "68227790",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 4,
+        "region_id": 18,
+        "source": null,
+        "text": "Хорошее расположение.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Адриан Пахомов",
+            "id": "48049704",
+            "last_name": null,
+            "name": "Адриан Пахомов",
+            "photo_preview_urls": {
+                "1920x": "https://i6.photo.2gis.com/images/profile/30258560165520220_56f7_1920x.jpg",
+                "320x": "https://i6.photo.2gis.com/images/profile/30258560165520220_56f7_320x.jpg",
+                "640x": "https://i6.photo.2gis.com/images/profile/30258560165520220_56f7_640x.jpg",
+                "64x64": "https://i6.photo.2gis.com/images/profile/30258560165520220_56f7_64x64.jpg",
+                "url": "https://i6.photo.2gis.com/images/profile/30258560165520220_56f7.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "42c3d0078c3b4a4794a705b2e9f09bda",
+            "reviews_count": 3,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-12-05T22:22:01.978739+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "67102453",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Спасибо организаторам за возможность покупать качественное топливо по низкой цене! Уже 2 года заправляюсь только тут! Расположение очень удобное (для меня). Радует, что расширили площадку. Вобщем красавцы 🙌",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Егор Сазонов",
+            "id": "47687965",
+            "last_name": null,
+            "name": "Егор Сазонов",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "5337cfc1d1db49f39a49d1cf61a86174",
+            "reviews_count": 1,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2023-12-01T15:30:25.525836+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "66692544",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-12-01T15:48:23.064182+07:00",
+            "id": "23650250",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Здравствуйте, спасибо за отзыв и высокую оценку! Мы всегда будем стараться радовать своих клиентов выгодной ценой и акциями! Приезжайте!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Сначала относился скептически, но уже года 3 заправляюсь в этой сетке и все отлично! Удобное расположение, разные варианты оплаты, ну и что немаловажно периодически радуют разнообразными акциями",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Юрий Пирогов",
+            "id": "47559222",
+            "last_name": null,
+            "name": "Юрий Пирогов",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "3a98efecc20d4d5f9187bda835bf0088",
+            "reviews_count": 1,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2023-11-12T18:35:52.117229+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "64910335",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-11-14T19:46:01.396269+07:00",
+            "id": "23092595",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Добрый день, спасибо за отзыв! Мы стараемся! Приезжайте!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Уже больше года заправляюсь только здесь, про стационарные заправки забыл! Бензин хороший, никакой разницы с обычными АЗС нет, даже мне кажется двигатель ровнее работает. Всем друзьям и родственникам советовал и все тоже стали заправляться здесь.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Геннадий Ущаповский",
+            "id": "46975806",
+            "last_name": null,
+            "name": "Геннадий Ущаповский",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "ea57a6e7f1cb4d6fb944530c7e0ba0c8",
+            "reviews_count": 1,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2023-09-17T09:49:10.337945+07:00",
+        "date_edited": "2023-09-17T09:49:46.919495+07:00",
+        "emojis": [
+            {
+                "count": 3,
+                "date_created": "2023-10-19T14:55:20.082457+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2024-11-21T17:07:58.52333+07:00",
+                        "user": {
+                            "id": "33489206",
+                            "name": "Aleks 555",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "c3478afbf20d42289ad3b4b6d51b3e36"
+                        }
+                    },
+                    {
+                        "date_created": "2024-04-23T09:22:20.184881+07:00",
+                        "user": {
+                            "id": "43703783",
+                            "name": "Андрей Сковиков",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "6e02e0511af64d448fa0aa8ce886f2f3"
+                        }
+                    },
+                    {
+                        "date_created": "2023-10-19T14:55:20.082457+07:00",
+                        "user": {
+                            "id": "11139778",
+                            "name": "Сергей Егорчатов",
+                            "photo_preview_urls": {
+                                "1920x": "https://i0.photo.2gis.com/images/profile/30258560067873922_b825_1920x.jpg",
+                                "320x": "https://i0.photo.2gis.com/images/profile/30258560067873922_b825_320x.jpg",
+                                "640x": "https://i0.photo.2gis.com/images/profile/30258560067873922_b825_640x.jpg",
+                                "64x64": "https://i0.photo.2gis.com/images/profile/30258560067873922_b825_64x64.jpg",
+                                "url": "https://i0.photo.2gis.com/images/profile/30258560067873922_b825.jpg"
+                            },
+                            "public_id": "4b5470396e75415490c0f30a397c96e3"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "60408885",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 3,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-09-23T15:30:19.573758+07:00",
+            "id": "21473554",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Здравствуйте, да сейчас цена очень сильно выросла. Оптовая цена практически сровнялась с розничной. Отсюда и у нас повышение. Надеемся, что это не надолго и мы скоро снова будем вас радовать выгодной ценой!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 4,
+        "region_id": 18,
+        "source": null,
+        "text": "А, что с ценой 92-го бенза 16.09.23г.? Цена была 48.90 литр (за наличку), когда на других заправках 48.24/25... . Интерееееесно...) Естественно, что уехала на другую...",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Tatka Ruzanova",
+            "id": "16114650",
+            "last_name": null,
+            "name": "Tatka Ruzanova",
+            "photo_preview_urls": {
+                "1920x": "https://i8.photo.2gis.com/images/profile/844424965742188_f265_1920x.jpg",
+                "320x": "https://i8.photo.2gis.com/images/profile/844424965742188_f265_320x.jpg",
+                "640x": "https://i8.photo.2gis.com/images/profile/844424965742188_f265_640x.jpg",
+                "64x64": "https://i8.photo.2gis.com/images/profile/844424965742188_f265_64x64.jpg",
+                "url": "https://i8.photo.2gis.com/images/profile/844424965742188_f265.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "e382fab83f6e4b50a66b64ae4db07613",
+            "reviews_count": 2,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2023-08-09T16:40:46.008321+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 2,
+                "date_created": "2024-04-23T09:22:31.46844+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2024-11-21T17:08:17.352727+07:00",
+                        "user": {
+                            "id": "33489206",
+                            "name": "Aleks 555",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "c3478afbf20d42289ad3b4b6d51b3e36"
+                        }
+                    },
+                    {
+                        "date_created": "2024-04-23T09:22:31.46844+07:00",
+                        "user": {
+                            "id": "43703783",
+                            "name": "Андрей Сковиков",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "6e02e0511af64d448fa0aa8ce886f2f3"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "57424633",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 2,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-08-09T20:18:15.624263+07:00",
+            "id": "20158348",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Здравствуйте, прикола никакого здесь нет. Сейчас топливный кризис, оптовая цена практически сравнялась с розничной. Соответственно и мы вынуждены поднимать цену сохраняя высшее качество. Раньше ситуация на рынке была другая и мы могли давать клиентам не только хорошую цену, но и скидку от объема. Обратите внимание, что крупные сетевые АЗС не только отменили свои акции, но и подняли цены. Как только ситуация стабилизируется мы вернем и выгодную цену и скидки! Надеемся на ваше понимание. Высокая цена не повод ставить нам низкую оценку."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 1,
+        "region_id": 18,
+        "source": null,
+        "text": "Не понял прикола заправки, позиционируют себя якобы у них дешевле, итог цена такая же как и на любой заправке. Плюс сомнительное качество",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Никола",
+            "id": "23072891",
+            "last_name": null,
+            "name": "Никола",
+            "photo_preview_urls": {
+                "1920x": "https://i1.photo.2gis.com/images/profile/30258560048764708_f661_1920x.jpg",
+                "320x": "https://i1.photo.2gis.com/images/profile/30258560048764708_f661_320x.jpg",
+                "640x": "https://i1.photo.2gis.com/images/profile/30258560048764708_f661_640x.jpg",
+                "64x64": "https://i1.photo.2gis.com/images/profile/30258560048764708_f661_64x64.jpg",
+                "url": "https://i1.photo.2gis.com/images/profile/30258560048764708_f661.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "a9335452c39d45ddae31307f80cc72ff",
+            "reviews_count": 32,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-12-08T23:45:32.510609+07:00",
+        "date_edited": "2023-08-05T00:33:31.858412+07:00",
+        "emojis": [
+            {
+                "count": 5,
+                "date_created": "2022-12-10T20:45:19.474231+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2024-04-19T16:13:36.460561+07:00",
+                        "user": {
+                            "id": "15584019",
+                            "name": "Галина Остроумова",
+                            "photo_preview_urls": {
+                                "1920x": "https://i0.photo.2gis.com/images/profile/30258560070104919_d5d7_1920x.jpg",
+                                "320x": "https://i0.photo.2gis.com/images/profile/30258560070104919_d5d7_320x.jpg",
+                                "640x": "https://i0.photo.2gis.com/images/profile/30258560070104919_d5d7_640x.jpg",
+                                "64x64": "https://i0.photo.2gis.com/images/profile/30258560070104919_d5d7_64x64.jpg",
+                                "url": "https://i0.photo.2gis.com/images/profile/30258560070104919_d5d7.jpg"
+                            },
+                            "public_id": "2be4bf94b4f3418aada2b891f4010a9d"
+                        }
+                    },
+                    {
+                        "date_created": "2023-02-27T23:10:42.172337+07:00",
+                        "user": {
+                            "id": "13106432",
+                            "name": "Дмитрий Чичеров",
+                            "photo_preview_urls": {
+                                "1920x": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_1920x.jpg",
+                                "320x": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_320x.jpg",
+                                "640x": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_640x.jpg",
+                                "64x64": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_64x64.jpg",
+                                "url": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954.jpg"
+                            },
+                            "public_id": "c1ac586bf6524c9e80d911d5e40f46e1"
+                        }
+                    },
+                    {
+                        "date_created": "2023-01-03T23:35:15.457457+07:00",
+                        "user": {
+                            "id": "10151206",
+                            "name": "Анастасия Строкина",
+                            "photo_preview_urls": {
+                                "1920x": "https://i0.photo.2gis.com/images/profile/30258560210340037_074f_1920x.jpg",
+                                "320x": "https://i0.photo.2gis.com/images/profile/30258560210340037_074f_320x.jpg",
+                                "640x": "https://i0.photo.2gis.com/images/profile/30258560210340037_074f_640x.jpg",
+                                "64x64": "https://i0.photo.2gis.com/images/profile/30258560210340037_074f_64x64.jpg",
+                                "url": "https://i0.photo.2gis.com/images/profile/30258560210340037_074f.jpg"
+                            },
+                            "public_id": "ee1815dc31e541aca7dff3a4d5d62fda"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "42076511",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 5,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-12-14T18:35:13.759305+07:00",
+            "id": "14146925",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Добрый день, был межсезонный дизель, фильтруемость до минус 18 градусов, было очень резкое понижение температуры ночью, дизель начал мёрзнуть и мы прекратили продажи. Мы не думали, что будет такое резкое понижение, обычно в это время нет ещё таких низких температур. Извиняемся за предоставленные неудобства. Я тоже свою машину заправляю у себя на азс и у меня тоже замерзла. Но это не означает, как вы написали, что топливо некачественное. Топливо было качественное, стандарта ЕВРО 5, только не подошло по температурному режиму, от этого никто не застрахован."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 3,
+        "region_id": 18,
+        "source": null,
+        "text": "Заправлялась здесь больше года. Недавно залила полный бак дизеля. Через несколько дней утром, после холодной ночи, машина проехала 100 метров и заглохла на ходу. В итоге перестала заводиться. На эвакуаторе увезли в автосервис, сделали диагностику, выяснилось, что забился топливный фильтр, а в баке замерзло 40 литров дизеля. Позже на связь со мной вышел владелец АЗС. Спор был разрешен, компенсация за ремонт и понесенные убытки была возмещена. Ситуация была не очень приятная, но Артём Николаевич решил вопрос оперативно, за что очень благодарна ему. ",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Наталья С",
+            "id": "21146401",
+            "last_name": null,
+            "name": "Наталья С",
+            "photo_preview_urls": {
+                "1920x": "https://i2.photo.2gis.com/images/profile/30258560209719254_b820_1920x.jpg",
+                "320x": "https://i2.photo.2gis.com/images/profile/30258560209719254_b820_320x.jpg",
+                "640x": "https://i2.photo.2gis.com/images/profile/30258560209719254_b820_640x.jpg",
+                "64x64": "https://i2.photo.2gis.com/images/profile/30258560209719254_b820_64x64.jpg",
+                "url": "https://i2.photo.2gis.com/images/profile/30258560209719254_b820.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "07605e39f1f145e9a237a3024bf4790f",
+            "reviews_count": 28,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-10-04T01:36:59.651439+07:00",
+        "date_edited": "2023-04-19T13:15:04.078776+07:00",
+        "emojis": [
+            {
+                "count": 2,
+                "date_created": "2022-11-20T23:54:23.993726+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2022-11-30T10:54:58.480378+07:00",
+                        "user": {
+                            "id": "30323339",
+                            "name": "Александр Тюрин",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "f270bc992ecd492290d9e0c026aa1143"
+                        }
+                    },
+                    {
+                        "date_created": "2022-11-20T23:54:23.993726+07:00",
+                        "user": {
+                            "id": "14042077",
+                            "name": "Петров Петров",
+                            "photo_preview_urls": {
+                                "1920x": "https://i8.photo.2gis.com/images/profile/844424968424966_8937_1920x.jpg",
+                                "320x": "https://i8.photo.2gis.com/images/profile/844424968424966_8937_320x.jpg",
+                                "640x": "https://i8.photo.2gis.com/images/profile/844424968424966_8937_640x.jpg",
+                                "64x64": "https://i8.photo.2gis.com/images/profile/844424968424966_8937_64x64.jpg",
+                                "url": "https://i8.photo.2gis.com/images/profile/844424968424966_8937.jpg"
+                            },
+                            "public_id": "17904a8ff6ac497a856aae2b818be3d9"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "37865040",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 2,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-12-14T19:21:07.00974+07:00",
+            "id": "14148502",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Здравствуйте, оборудование работает корректно. Недолива нет!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Установлено новое оборудование. Качество бензина отличное. Спасибо",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "David Gazzaev",
+            "id": "35262102",
+            "last_name": null,
+            "name": "David Gazzaev",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "bd73f6faff3245edad4897cc6e4170b7",
+            "reviews_count": 2,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2023-04-12T21:28:35.79413+07:00",
+        "date_edited": "2023-04-12T21:30:48.573786+07:00",
+        "emojis": [
+            {
+                "count": 2,
+                "date_created": "2023-06-06T04:54:44.456663+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-08-15T16:26:43.519398+07:00",
+                        "user": {
+                            "id": "14336329",
+                            "name": "Михаил Косырев",
+                            "photo_preview_urls": {
+                                "1920x": "https://i1.photo.2gis.com/images/profile/844424968423492_92b5_1920x.jpg",
+                                "320x": "https://i1.photo.2gis.com/images/profile/844424968423492_92b5_320x.jpg",
+                                "640x": "https://i1.photo.2gis.com/images/profile/844424968423492_92b5_640x.jpg",
+                                "64x64": "https://i1.photo.2gis.com/images/profile/844424968423492_92b5_64x64.jpg",
+                                "url": "https://i1.photo.2gis.com/images/profile/844424968423492_92b5.jpg"
+                            },
+                            "public_id": "4e9c6ca24e5e4239a8253f76501430cb"
+                        }
+                    },
+                    {
+                        "date_created": "2023-06-06T04:54:44.456663+07:00",
+                        "user": {
+                            "id": "7738376",
+                            "name": "Евгений Евгенич",
+                            "photo_preview_urls": {
+                                "1920x": "https://i8.photo.2gis.com/images/profile/30258560088972447_6f53_1920x.jpg",
+                                "320x": "https://i8.photo.2gis.com/images/profile/30258560088972447_6f53_320x.jpg",
+                                "640x": "https://i8.photo.2gis.com/images/profile/30258560088972447_6f53_640x.jpg",
+                                "64x64": "https://i8.photo.2gis.com/images/profile/30258560088972447_6f53_64x64.jpg",
+                                "url": "https://i8.photo.2gis.com/images/profile/30258560088972447_6f53.jpg"
+                            },
+                            "public_id": "e19eb332e9a6465a843e000f0b2ac08d"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "48850489",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 2,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-09-23T15:55:58.402612+07:00",
+            "id": "21474118",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Добрый день, большое спасибо за ваш отзыв и оценку 💛 Мы стараемся 🌸"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Отличная заправка. Качественный бензин и приятные цены!!!",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Екатерина Мулендеева",
+            "id": "40227305",
+            "last_name": null,
+            "name": "Екатерина Мулендеева",
+            "photo_preview_urls": {
+                "1920x": "https://i3.photo.2gis.com/images/profile/30258560100195289_7103_1920x.jpg",
+                "320x": "https://i3.photo.2gis.com/images/profile/30258560100195289_7103_320x.jpg",
+                "640x": "https://i3.photo.2gis.com/images/profile/30258560100195289_7103_640x.jpg",
+                "64x64": "https://i3.photo.2gis.com/images/profile/30258560100195289_7103_64x64.jpg",
+                "url": "https://i3.photo.2gis.com/images/profile/30258560100195289_7103.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "1f06c1524ffd435997d3c919e35f8ffe",
+            "reviews_count": 2,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2023-02-27T23:06:35.505017+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 2,
+                "date_created": "2023-02-27T23:06:41.790691+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-08-09T21:08:40.490689+07:00",
+                        "user": {
+                            "id": "15719661",
+                            "name": "Ник Белый",
+                            "photo_preview_urls": {
+                                "1920x": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9_1920x.jpg",
+                                "320x": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9_320x.jpg",
+                                "640x": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9_640x.jpg",
+                                "64x64": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9_64x64.jpg",
+                                "url": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9.jpg"
+                            },
+                            "public_id": "8c09a34b2f73487b894758db89090be4"
+                        }
+                    },
+                    {
+                        "date_created": "2023-02-27T23:06:41.790691+07:00",
+                        "user": {
+                            "id": "13106432",
+                            "name": "Дмитрий Чичеров",
+                            "photo_preview_urls": {
+                                "1920x": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_1920x.jpg",
+                                "320x": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_320x.jpg",
+                                "640x": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_640x.jpg",
+                                "64x64": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_64x64.jpg",
+                                "url": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954.jpg"
+                            },
+                            "public_id": "c1ac586bf6524c9e80d911d5e40f46e1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "46409430",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 2,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-09-23T16:01:50.734928+07:00",
+            "id": "21474258",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Акция это временное явление, а вот высшее качество у нас всегда! Приезжайте!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 4,
+        "region_id": 18,
+        "source": null,
+        "text": "Разницы не чувствую с именитыми брендами. Жаль что акцию отменили. Поэтому снимаю бал.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Дмитрий Чичеров",
+            "id": "13106432",
+            "last_name": null,
+            "name": "Дмитрий Чичеров",
+            "photo_preview_urls": {
+                "1920x": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_1920x.jpg",
+                "320x": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_320x.jpg",
+                "640x": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_640x.jpg",
+                "64x64": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_64x64.jpg",
+                "url": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "c1ac586bf6524c9e80d911d5e40f46e1",
+            "reviews_count": 272,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2023-02-27T22:34:56.201796+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 2,
+                "date_created": "2023-02-27T23:05:20.135155+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-06-10T13:56:21.004331+07:00",
+                        "user": {
+                            "id": "15719661",
+                            "name": "Ник Белый",
+                            "photo_preview_urls": {
+                                "1920x": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9_1920x.jpg",
+                                "320x": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9_320x.jpg",
+                                "640x": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9_640x.jpg",
+                                "64x64": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9_64x64.jpg",
+                                "url": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9.jpg"
+                            },
+                            "public_id": "8c09a34b2f73487b894758db89090be4"
+                        }
+                    },
+                    {
+                        "date_created": "2023-02-27T23:05:20.135155+07:00",
+                        "user": {
+                            "id": "13106432",
+                            "name": "Дмитрий Чичеров",
+                            "photo_preview_urls": {
+                                "1920x": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_1920x.jpg",
+                                "320x": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_320x.jpg",
+                                "640x": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_640x.jpg",
+                                "64x64": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954_64x64.jpg",
+                                "url": "https://i2.photo.2gis.com/images/profile/30258560074155604_e954.jpg"
+                            },
+                            "public_id": "c1ac586bf6524c9e80d911d5e40f46e1"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "46407843",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 2,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-09-23T16:02:09.822848+07:00",
+            "id": "21474271",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Акция это временное явление, а вот высшее качество у нас всегда! Приезжайте!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Жаль, что отменили акцию(((",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Vladislav Puzachev",
+            "id": "14400433",
+            "last_name": null,
+            "name": "Vladislav Puzachev",
+            "photo_preview_urls": {
+                "1920x": "https://i6.photo.2gis.com/images/profile/844424968427464_f611_1920x.jpg",
+                "320x": "https://i6.photo.2gis.com/images/profile/844424968427464_f611_320x.jpg",
+                "640x": "https://i6.photo.2gis.com/images/profile/844424968427464_f611_640x.jpg",
+                "64x64": "https://i6.photo.2gis.com/images/profile/844424968427464_f611_64x64.jpg",
+                "url": "https://i6.photo.2gis.com/images/profile/844424968427464_f611.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "55cc8489bd13444aaecfa5da1a4df6c1",
+            "reviews_count": 5,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2023-02-25T19:57:11.932317+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-04-06T21:35:04.379547+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-04-06T21:35:04.379547+07:00",
+                        "user": {
+                            "id": "39016425",
+                            "name": "Сергей Васильев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "061839e1abd74378a990eebffc04a244"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "46293359",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-09-23T16:02:30.443714+07:00",
+            "id": "21474283",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Ko0t3, здравствуйте. Огромное спасибо, что выбрали нас! Мы старались 🤝 Акция это временное явление, а вот высшее качество у нас всегда! Приезжайте!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Отличная заправка. Качественный бензин и приятные цены. Заправляюсь в данном месте с их открытия. Особенно радовала акция при заправке от 25 литров. Сегодня оператор сказала, что акция закончилась.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Антон Жеделев",
+            "id": "6224512",
+            "last_name": null,
+            "name": "Антон Жеделев",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "de95d0103c60470bbad635056b9f74d6",
+            "reviews_count": 9,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-02-04T09:29:22.630225+07:00",
+        "date_edited": "2023-02-04T09:41:49.04321+07:00",
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-06-10T13:57:20.474309+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-06-10T13:57:20.474309+07:00",
+                        "user": {
+                            "id": "15719661",
+                            "name": "Ник Белый",
+                            "photo_preview_urls": {
+                                "1920x": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9_1920x.jpg",
+                                "320x": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9_320x.jpg",
+                                "640x": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9_640x.jpg",
+                                "64x64": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9_64x64.jpg",
+                                "url": "https://i4.photo.2gis.com/images/profile/844424968433419_49a9.jpg"
+                            },
+                            "public_id": "8c09a34b2f73487b894758db89090be4"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "44939461",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 3,
+        "region_id": 18,
+        "source": null,
+        "text": "Заправляюсь на этой заправке достаточно давно. Сегодня заехала заправиться, оплатила заправку на 1050 руб. Оператор ( очень хамоватая женщина) включает подачу топлива, автомобиль заправляется на 60 рублей и отключается, оператор уверяет что она ничего не отключала( при этом всем колонка просто отключается и появляется надпись, не забудьте вытащить пистолет т.е. явно что она отключилась, а не пистолет отщелкнул и подача топлива прекратилась) и у меня вообще машина такая что она не заправляется( как машина может отключить подачу топлива тоже не известно!?) При том что даже если пистолет отщелкивает все же слышно шум подачи топлива) топлива , начинает истерить, хамить. Второй раз включает подачу топлива, автомобиль заправляется около 40 рублей. Все так же с истериками и психами оператор чуть ли не выгоняет с заправки, езжайте на другую и возвращает деньги. Телефон начальства не дает, как и в принципе никакого номера телефона просто нет . Все же стоит задуматься в компетентности данного сотрудника!время заправки около 5 часов утра. 3 звезды, только из-за того что топливо хорошее, обслуживание 0!",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Nastya G",
+            "id": "21728673",
+            "last_name": null,
+            "name": "Nastya G",
+            "photo_preview_urls": {
+                "1920x": "https://i1.photo.2gis.com/images/profile/844424968434943_9c09_1920x.jpg",
+                "320x": "https://i1.photo.2gis.com/images/profile/844424968434943_9c09_320x.jpg",
+                "640x": "https://i1.photo.2gis.com/images/profile/844424968434943_9c09_640x.jpg",
+                "64x64": "https://i1.photo.2gis.com/images/profile/844424968434943_9c09_64x64.jpg",
+                "url": "https://i1.photo.2gis.com/images/profile/844424968434943_9c09.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "d3f3d81af9354dd6a41fb1c5fb3907a0",
+            "reviews_count": 1,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2023-01-19T20:32:13.083583+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-04-06T21:36:55.123554+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-04-06T21:36:55.123554+07:00",
+                        "user": {
+                            "id": "39016425",
+                            "name": "Сергей Васильев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "061839e1abd74378a990eebffc04a244"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "43986619",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-09-23T16:03:50.620554+07:00",
+            "id": "21474311",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Евгений, здравствуйте. Благодарим вас за высокую оценку 😌 Мы стараемся!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Постоянно здесь заправляюсь никаких проблем не возникало)",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Евгений Евгенич",
+            "id": "7738376",
+            "last_name": null,
+            "name": "Евгений Евгенич",
+            "photo_preview_urls": {
+                "1920x": "https://i8.photo.2gis.com/images/profile/30258560088972447_6f53_1920x.jpg",
+                "320x": "https://i8.photo.2gis.com/images/profile/30258560088972447_6f53_320x.jpg",
+                "640x": "https://i8.photo.2gis.com/images/profile/30258560088972447_6f53_640x.jpg",
+                "64x64": "https://i8.photo.2gis.com/images/profile/30258560088972447_6f53_64x64.jpg",
+                "url": "https://i8.photo.2gis.com/images/profile/30258560088972447_6f53.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "e19eb332e9a6465a843e000f0b2ac08d",
+            "reviews_count": 8,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2023-01-10T22:29:36.609786+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "43576048",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-01-10T23:24:34.585547+07:00",
+            "id": "14653855",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Добрый день, да, на въезде на площадку сейчас есть небольшая яма, но вполне проезжаемая, летом мы её периодически ремонтируем, но сейчас это не возможно сделать из-за погодных условий, асфальт не отсутствует, он есть, но он под снегом, так как сейчас зима))) Сейчас просто физически невозможно почистить площадку до асфальта. Касаемо ДТ, на колонке специально висит табличка, что ДТ зимнее до минус 25 градусов, а в ночь с 6 на 7 января было сильное понижение температуры, по данным из разных источников, предоставляющих метеоинформацию, температура ночью понижалась до 30 градусов, вы должны были сами предусмотреть этот момент и принять решение заправляться вам или нет. Поэтому претензии по ДТ считаем не обоснованными. Что касаемо общения оператора, если это действительно так, то приносим свои извинения, в любом случае с оператором будет проведена профилактическая беседа и вынесен выговор. С уважение, \"Полный бак\"."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 1,
+        "region_id": 18,
+        "source": null,
+        "text": "В начале года , числа 7 заехала на данную заправку, проезд ужасный, на заправке отсутствовал асфальт, оператор очень хамоватоя женьщина, разговаривать с посетителями явно не умеет либо у неё не удачный день был. Дизель явно не зимний, двигатель в- 20 градусов работал не ровно , часто глохнет. Очень разочарованна, не совет данную заправочный станцию",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Юлия Иванникова",
+            "id": "39424694",
+            "last_name": null,
+            "name": "Юлия Иванникова",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "70563ec1b4a142d7b8f18d37b9634a22",
+            "reviews_count": 3,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2023-01-03T14:43:42.86953+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "43261753",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-01-11T00:07:46.885876+07:00",
+            "id": "14654430",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Добрый день, всё оборудование недавно проходило метрологическую поверку, контролирующими органами, о чём имеются отметки в журнале. Недолив исключен. А канистра не является мерным инструментом. Но в любом случае спасибо вам за обратную связь, любое оборудование может выйти из строя, поэтому будет лишний повод всё ещё раз перепроверить. \n\nС уважением, \"Полный бак\""
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 1,
+        "region_id": 18,
+        "source": null,
+        "text": "Приехала на эту заправку, чтобы залить в кснистру бензин. Первые 2-3 литра бензина счетчик крутит, а бензин не льется. Заметила это, потому что наливала в канистру и было хорошо заметно. В прошлых отзывах про недолив отвечают, что оборудование проверяется и исправно. Не знаю как проводят техобслуживание колонок, но сомнительная полулигальная АЗС, недоливают, оплата только наличными, чек не дали. Встает вопрос о законности существования данной заправки.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Айша Айша",
+            "id": "39282369",
+            "last_name": null,
+            "name": "Айша Айша",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "d1a4de604db74fbeae52505f800a71f9",
+            "reviews_count": 1,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-12-07T13:24:10.874543+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "41975552",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-12-14T18:36:30.225094+07:00",
+            "id": "14146958",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Спасибо!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Долгое время заправлялся на татнефти 92 бензином неподалеку, с недавних пор начал заливаться здесь 95м. Реально упал расход на 1.2 литра, а при цене 42.90 за литр вообще сказка!",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Семен Яковлев",
+            "id": "38739975",
+            "last_name": null,
+            "name": "Семен Яковлев",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "44cd77c389994903826493a42b930cca",
+            "reviews_count": 1,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-12-06T23:55:37.677671+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "41794468",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-12-14T18:42:09.459092+07:00",
+            "id": "14147159",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Спасибо! Стараемся!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Заправляюсь давно. Отличный Бенз. Так держать!",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Михаил Головачев",
+            "id": "38732518",
+            "last_name": null,
+            "name": "Михаил Головачев",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "1dd8f9834ca74c29ae63afecd4b0c06b",
+            "reviews_count": 2,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-12-06T22:28:09.47628+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "41700800",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-12-14T18:42:22.576845+07:00",
+            "id": "14147169",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Спасибо!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Отличная заправка, цена супер, бензин отличный. Заправляюсь только здесь. Литров входит столько сколько и бак, недолив не замечал.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Александр Лунёв",
+            "id": "16793356",
+            "last_name": null,
+            "name": "Александр Лунёв",
+            "photo_preview_urls": {
+                "1920x": "https://i4.photo.2gis.com/images/profile/844424967002054_8b40_1920x.jpg",
+                "320x": "https://i4.photo.2gis.com/images/profile/844424967002054_8b40_320x.jpg",
+                "640x": "https://i4.photo.2gis.com/images/profile/844424967002054_8b40_640x.jpg",
+                "64x64": "https://i4.photo.2gis.com/images/profile/844424967002054_8b40_64x64.jpg",
+                "url": "https://i4.photo.2gis.com/images/profile/844424967002054_8b40.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "049e7ff8a89f412cbface513789bee99",
+            "reviews_count": 2,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-12-06T20:05:59.382855+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "41535838",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-12-14T18:42:39.11301+07:00",
+            "id": "14147182",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Спасибо! Приезжайте!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Заправляюсь не первый раз. Все супер, бензин отличный,расход упал. Очень радует акция: при заправке от 25 литров, литр стоит 40,9. Спасибо!",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Арина Синенко",
+            "id": "29531062",
+            "last_name": null,
+            "name": "Арина Синенко",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "6256600147894213a1c7653c6ab95c6d",
+            "reviews_count": 3,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-12-06T17:51:53.25023+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "41366845",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-12-14T18:43:17.003402+07:00",
+            "id": "14147208",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Спасибо! Будем рады видеть Вас снова!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Заправлялся много раз на этой заправке, никаких проблем, бензин качественный, цена приятная! По недоливу никаких вопросов не было, все как везде! Форд Куга",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Юрий Пирогов",
+            "id": "38724187",
+            "last_name": null,
+            "name": "Юрий Пирогов",
+            "photo_preview_urls": {
+                "1920x": "https://i0.photo.2gis.com/images/profile/30258560095083152_488d_1920x.jpg",
+                "320x": "https://i0.photo.2gis.com/images/profile/30258560095083152_488d_320x.jpg",
+                "640x": "https://i0.photo.2gis.com/images/profile/30258560095083152_488d_640x.jpg",
+                "64x64": "https://i0.photo.2gis.com/images/profile/30258560095083152_488d_64x64.jpg",
+                "url": "https://i0.photo.2gis.com/images/profile/30258560095083152_488d.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "eb1f2b3b3d1a40ee99a0c08249cc19e3",
+            "reviews_count": 1,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 3,
+        "date_created": "2022-11-30T11:12:02.803848+07:00",
+        "date_edited": "2022-11-30T13:46:07.800234+07:00",
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "40580570",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-12-14T19:11:03.11994+07:00",
+            "id": "14148154",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Здравствуйте, недолив исключён, сам лично присутствую на замерах. Оборудование новое, прошедшее поверку службой метрологии. В конце ноября была выездная проверка, замечаний не выявлено. И после вашего отзыва мы ещё раз всё перепроверили! Сами рассудите, для чего нам это надо?! Чтобы потом нам писали такие отзывы и их увидели наши клиенты? Если бы мы хотели обмануть, то вообще не регистрировались на 2Гис, зная что у нас будут негативные отзывы. Мы дорожим своей репутацией, работаем честно."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 1,
+        "region_id": 18,
+        "source": null,
+        "text": "Дичайший недолив!!! Заправился на 2000₽, (якобы 49 литров), так пистолет даже и не \"отщёлкнул, соответственно бак заправлен не до конца!!! На других заправках пистолет \"отшелкивает\" на полностью пустом баке на 45-46 литрах! Недолив минимум 3-4 литра, а то и больше!!! Больше сюда ни ногой!!!",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Александр Тюрин",
+            "id": "30323339",
+            "last_name": null,
+            "name": "Александр Тюрин",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "f270bc992ecd492290d9e0c026aa1143",
+            "reviews_count": 5,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-11-20T23:57:16.631821+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2022-11-30T10:54:43.817683+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2022-12-14T19:51:39.504861+07:00",
+                        "user": {
+                            "id": "30323339",
+                            "name": "Александр Тюрин",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "f270bc992ecd492290d9e0c026aa1143"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "40114716",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-12-14T19:12:47.470864+07:00",
+            "id": "14148215",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Здравствуйте, недолив исключён, сам лично присутствую на замерах. Оборудование новое, прошедшее поверку службой метрологии. В конце ноября была выездная проверка, замечаний не выявлено. И после вашего отзыва мы ещё раз всё перепроверили! Сами рассудите, для чего нам это надо?! Чтобы потом нам писали такие отзывы и их увидели наши клиенты? Если бы мы хотели обмануть, то вообще не регистрировались на 2Гис, зная что у нас будут негативные отзывы. Мы дорожим своей репутацией, работаем честно."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 1,
+        "region_id": 18,
+        "source": null,
+        "text": "Только загорелась лампа на а/м форд фокус 2 ( осталось около 10 литров) до полного бака вошло 59 литров !!!! Карл 59 литров!!!! Хотя бак по паспорту 55 литров всего😁😁😁 сомнительная выгода- очень большой недолив, проверьте сами",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Петров Петров",
+            "id": "14042077",
+            "last_name": null,
+            "name": "Петров Петров",
+            "photo_preview_urls": {
+                "1920x": "https://i8.photo.2gis.com/images/profile/844424968424966_8937_1920x.jpg",
+                "320x": "https://i8.photo.2gis.com/images/profile/844424968424966_8937_320x.jpg",
+                "640x": "https://i8.photo.2gis.com/images/profile/844424968424966_8937_640x.jpg",
+                "64x64": "https://i8.photo.2gis.com/images/profile/844424968424966_8937_64x64.jpg",
+                "url": "https://i8.photo.2gis.com/images/profile/844424968424966_8937.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "17904a8ff6ac497a856aae2b818be3d9",
+            "reviews_count": 13,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-11-05T14:39:22.306002+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2022-11-30T10:54:46.924159+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2022-11-30T10:54:46.924159+07:00",
+                        "user": {
+                            "id": "30323339",
+                            "name": "Александр Тюрин",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "f270bc992ecd492290d9e0c026aa1143"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "39357609",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-12-14T19:18:35.311669+07:00",
+            "id": "14148408",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Здравствуйте, оборудование работает корректно, постоянно это контролируем."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 3,
+        "region_id": 18,
+        "source": null,
+        "text": "Все хорошо конечно в плане качества бензина. Но первые 100 рублей крутит без бензина и последние 100 тоже.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Александр Спиридонов",
+            "id": "19185830",
+            "last_name": null,
+            "name": "Александр Спиридонов",
+            "photo_preview_urls": {
+                "1920x": "https://i1.photo.2gis.com/images/profile/844424968422130_efa8_1920x.jpg",
+                "320x": "https://i1.photo.2gis.com/images/profile/844424968422130_efa8_320x.jpg",
+                "640x": "https://i1.photo.2gis.com/images/profile/844424968422130_efa8_640x.jpg",
+                "64x64": "https://i1.photo.2gis.com/images/profile/844424968422130_efa8_64x64.jpg",
+                "url": "https://i1.photo.2gis.com/images/profile/844424968422130_efa8.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "80563d715e604792b11d3d5c3850bd91",
+            "reviews_count": 7,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-09-18T19:52:30.664577+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-04-06T21:41:43.744096+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-04-06T21:41:43.744096+07:00",
+                        "user": {
+                            "id": "39016425",
+                            "name": "Сергей Васильев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "061839e1abd74378a990eebffc04a244"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "37143097",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001062179947",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-12-14T19:21:32.115703+07:00",
+            "id": "14148518",
+            "logo_preview_urls": {},
+            "org_name": "Полный бак",
+            "text": "Здравствуйте, спасибо, приезжайте ещё!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 18,
+        "source": null,
+        "text": "Уже год с лишним заправляюсь только здесь 95-м. Качество отличное, обслуживание 24/7, приезжал в любое время суток. Топливная система не жаловалась ни разу, с другого города в гости приезжает отец - тоже всегда льёт себе полный бак, ибо такая цена - это просто подарок. Рекомендую!",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Alexander Leontyev",
+            "id": "27004781",
+            "last_name": null,
+            "name": "Alexander Leontyev",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "9b896bb0ee3a470c9755a56e73111d75",
+            "reviews_count": 8,
+            "url": ""
+        }
+    }
+]

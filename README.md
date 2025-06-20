@@ -1,7 +1,15 @@
+git init
+git remote add origin https://github.com/agabdulline/ppr_khakaton.git
+git pull origin master
+
+
+
 Запустить фронтенд:
 
 npm install
 npm start
+
+
 
 Запустить бекенд:
 

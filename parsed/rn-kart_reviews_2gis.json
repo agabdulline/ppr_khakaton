@@ -1,0 +1,1832 @@
+[
+    {
+        "additional_data": {
+            "external_id": "7728405",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-06-27T07:01:09.0+07:00",
+        "date_edited": "2023-09-27T17:25:51.0+07:00",
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "33324894",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 4,
+        "region_id": 32,
+        "source": null,
+        "text": "Мне комфортно пользоваться топливными картами. Я владелец компании по доставке бруса. Мои доходы складываются, в том числе из сэкономленных денег на топливо. Чем больше сэкономил, тем больше могу присвоить себе. А дальше: повысить свою доходность или выдать надбавки - сложное решение. Карты удобны не только возможностью получать скидки, но и тем, что это отличный шаг, чтобы начать отказываться от бумаги. Отчеты можно в готовом виде посмотреть вличном кабинете клиента, не нужно ничего переносить на бумагу. Наличные так же можно убрать в “долгий ящик”. Думать, что тк – это только для юр лиц не совсем верно. Водители тоже имеют кипу полезных функций, которые из раза в раз пополняются.",
+        "url": "https://flamp.ru/r/4504128908426589/7728405",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Владимир Соколов",
+            "id": "4024548",
+            "last_name": null,
+            "name": "Владимир Соколов",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 5,
+            "url": "http://flamp.ru/user4024548"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "8247788",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-03-30T19:04:34.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "48103159",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Отличное начало для перевода всей работы в безнал. Элементарное использование и многофункциональность - лучшее сочетание и это точно про карту от РН-карт.",
+        "url": "https://flamp.ru/r/4504128908426589/8247788",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Михаил Иванцов",
+            "id": "4977062",
+            "last_name": null,
+            "name": "Михаил Иванцов",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/4acd11d014214720d35bcd722a7868b3_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/4acd11d014214720d35bcd722a7868b3_320.jpg",
+                "640x": "https://cdn1.flamp.ru/4acd11d014214720d35bcd722a7868b3_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/4acd11d014214720d35bcd722a7868b3_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/4acd11d014214720d35bcd722a7868b3.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 13,
+            "url": "http://flamp.ru/user4977062"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "8055012",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-12-15T21:18:31.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "42421795",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "У меня о Роснефть только хорошие впечатления. Карты оформили быстро, а мне теперь удобно отслеживать все действия в личном кабинете и контролировать лимит.",
+        "url": "https://flamp.ru/r/4504128908426589/8055012",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Matvey Krysanov",
+            "id": "4878227",
+            "last_name": null,
+            "name": "Matvey Krysanov",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 1,
+            "url": "http://flamp.ru/user4878227"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7969787",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-10-31T01:32:13.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "39080979",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Достаточно давно использую РН-Карт и не заметил для себя никаких недостатков. Очень удобно изучать все автоматизированные отчеты, денежные средства зачисляются быстро. Также устраивают тарифные планы, которые можно подобрать в зависимости от размера бизнеса.",
+        "url": "https://flamp.ru/r/4504128908426589/7969787",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "andreev_lekha_1979_11_3",
+            "id": "4832212",
+            "last_name": null,
+            "name": "andreev_lekha_1979_11_3",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 1,
+            "url": "http://flamp.ru/user4832212"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7943689",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-10-17T18:25:25.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "38438981",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 4,
+        "region_id": 32,
+        "source": null,
+        "text": "Оформил карту на свой небольшой автопарк и не жалею. Система удобная, картами легко управлять, а экономия по тарифу выходит существенная. Сложностей не бойтесь, приложение, через которое ТК работает, довольно простое, с ним разберётся каждый. Полностью отказаться от налички это действительно удобно, причём как мне, так и водителям.",
+        "url": "https://flamp.ru/r/4504128908426589/7943689",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Андрей",
+            "id": "4818430",
+            "last_name": null,
+            "name": "Андрей",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 2,
+            "url": "http://flamp.ru/user4818430"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7904866",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-09-25T22:30:23.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "37493910",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 4,
+        "region_id": 32,
+        "source": null,
+        "text": "Оставлю положительный отзыв, потому что не нашел недостатков за долгий период использования. Вся информация в приложении представлена в деталях, смотреть удобно, счет пополнять быстро. Я руководитель в компании по доставке и установке сантехники. Пользуемся картами регулярно, весь штат оценил.",
+        "url": "https://flamp.ru/r/4504128908426589/7904866",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "wentgunquifin1976",
+            "id": "4797809",
+            "last_name": null,
+            "name": "wentgunquifin1976",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 3,
+            "url": "http://flamp.ru/user4797809"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7882757",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-09-13T22:27:18.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "36898544",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Мое субъективное мнение - карта оправдывает себя на все 100. Есть, пить не просит. Приложение сделано удобно, функции подобраны грамотно, нет всякого бреда. Отличное начало для перевода всей работы в безнал. Элементарное использование и многофункциональность - лучшее сочетание и это точно про карту от РН-карт.",
+        "url": "https://flamp.ru/r/4504128908426589/7882757",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "riabkov_maksim_1983_13_8",
+            "id": "4787104",
+            "last_name": null,
+            "name": "riabkov_maksim_1983_13_8",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 2,
+            "url": "http://flamp.ru/user4787104"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7878286",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-09-11T17:58:48.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "36778488",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Я рад, что карту не забрасывают, над ней работают и модернизируют как только могут. Я картой доволен, как и большинство людей. Удобная, практична. Рн-карт могу похвалить за оперативность и грамотное обслуживание. Для меня она очень полезна(владелец компании по доставке тортов).",
+        "url": "https://flamp.ru/r/4504128908426589/7878286",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Олег Гордон",
+            "id": "4784395",
+            "last_name": null,
+            "name": "Олег Гордон",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 2,
+            "url": "http://flamp.ru/user4784395"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7850455",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-08-28T15:34:05.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "36055143",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Сравнить топливную карту от РН-карт, к сожалению, мне не с чем. Я пользуюсь ей уже долгие 5 лет. Работает исправно, в приложение нет - нет да что-то добавят. Карту оформлял на всех сотрудников моей компании по доставке мебели. Оформлял 5 лет назад, но, что странно, карта не потеряла своей актуальности.",
+        "url": "https://flamp.ru/r/4504128908426589/7850455",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Денис Поляков",
+            "id": "4769958",
+            "last_name": null,
+            "name": "Денис Поляков",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 1,
+            "url": "http://flamp.ru/user4769958"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7841119",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-08-24T02:37:49.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "35829621",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Я доволен топливной картой от РН-карт. Мы с ней, так сказать, через многое прошли. Я владелец компании по доставке продуктов и пользуюсь картами роснефть все работники в моем подчинении. Круто, что компании не все равно на преданных клиентов. Одни плюсы!",
+        "url": "https://flamp.ru/r/4504128908426589/7841119",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Mikhail Lop",
+            "id": "4765716",
+            "last_name": null,
+            "name": "Mikhail Lop",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/8879bec3bc8ead21a3c557cdf695364f_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/8879bec3bc8ead21a3c557cdf695364f_320.jpg",
+                "640x": "https://cdn1.flamp.ru/8879bec3bc8ead21a3c557cdf695364f_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/8879bec3bc8ead21a3c557cdf695364f_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/8879bec3bc8ead21a3c557cdf695364f.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 17,
+            "url": "http://flamp.ru/user4765716"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7837985",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-08-22T19:57:03.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "35760198",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "У меня своя компания по чистке ковров. Хлопать ковры на заднем дворе уже не можно, и чистка пользуемся большой популярностью. Мы не работаем на личных автомобилях, только на корпоративных. В штате есть 15 чистильщиков и 6 водителей. У последних есть карты от РН-карт. Я завел их по совету приятеля. Признаться, я благодарен ему за это. Карта не требует вложений, нужно только подписать договор с РН-карт и все. Есть возможность получать скидки, следить за расходами, получать готовые отчеты и многое другое. Для водителей предусмотрены специальные плюшки. Часто выходят обновления для приложения. С годами работа только улучшилась.",
+        "url": "https://flamp.ru/r/4504128908426589/7837985",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Максим",
+            "id": "4755928",
+            "last_name": null,
+            "name": "Максим",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 4,
+            "url": "http://flamp.ru/user4755928"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7816938",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-08-11T10:48:47.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "35225169",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "С напарником открыли свою компанию по доставке продуктов. Он предложил оформить топливные карты на всех сотрудников. Это случилось через 3 года после открытия. Я с удовольствием поддержал, потому что тянуть все на себе было очень тяжело. РН-карт удивили оперативностью в работе. Карты выдали через 3 дня после подписания документов. Да и в целом компания стала расти быстрее, потому что у нас появилось время работать над улучшением. Может в будущем найду недостатки какие-нибудь, но сейчас получаем только помощь от нее.",
+        "url": "https://flamp.ru/r/4504128908426589/7816938",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Тимур",
+            "id": "4751689",
+            "last_name": null,
+            "name": "Тимур",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 1,
+            "url": "http://flamp.ru/user4751689"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7794160",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-07-30T00:51:06.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "34668672",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 4,
+        "region_id": 32,
+        "source": null,
+        "text": "Круто, что многие люди действительно тратят свое время на написание отзывов про определенный продукт. Мне это очень помогло несколько лет назад, когда я выбирал себе компанию, от которой хочу завести топливные карты всем работникам. У меня своя компания по доставке пиццы. Иметь постоянных доставщиков гораздо приятнее и надежнее, чем вечно доверять посторонним людям. Карты от РН-карт удобны не только мне, но и для водителей тоже есть много функций, таких как карта с АЗС, оплата из салона, легкое отслеживание расходов. Для меня автоматизированные отчеты, быстрое пополнение счета и детальные транзакции.",
+        "url": "https://flamp.ru/r/4504128908426589/7794160",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Дмитрий Смолин",
+            "id": "4642531",
+            "last_name": null,
+            "name": "Дмитрий Смолин",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/61b57b36783624e6b4c82d30a3a2f442_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/61b57b36783624e6b4c82d30a3a2f442_320.jpg",
+                "640x": "https://cdn1.flamp.ru/61b57b36783624e6b4c82d30a3a2f442_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/61b57b36783624e6b4c82d30a3a2f442_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/61b57b36783624e6b4c82d30a3a2f442.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 29,
+            "url": "http://flamp.ru/user4642531"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7793924",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-07-29T21:45:16.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "34662595",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 4,
+        "region_id": 32,
+        "source": null,
+        "text": "Я пользуюсь топливными картами от РН-карт уже 5 лет. Все это время приложение продолжает усовершенствоваться. Я руководитель компании по доставке цветов, штат водителей на сегодняшний день уже 32 человека. Следить за таким количеством человек и оставаться в трезвом уме у меня получается только с картой. Может быть есть гипер люди, которые справляются с этим сами, но точно не я. Я стараюсь по максимуму экономить время за бумагами и отчетами, чтобы уделять внимание сотрудникам и работать над усовершенствованием компании. Пока получается идеально. За столько лет работы я ни разу не ловил себя на мысли, что карта становиться бесполезной и тд.",
+        "url": "https://flamp.ru/r/4504128908426589/7793924",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "vaniaiw7",
+            "id": "4739512",
+            "last_name": null,
+            "name": "vaniaiw7",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 1,
+            "url": "http://flamp.ru/user4739512"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7781481",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-07-23T17:18:22.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "34408713",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 4,
+        "region_id": 32,
+        "source": null,
+        "text": "С супругой открыли компанию по созданию и доставке нижнего белья. Часто отправляем белье по городу и иногда в близлежащие поселки. Доставщикам оформили карты роснефть от РН-карт. В приложении есть карта с расположением заправок, наглядная отчетность. Пополняется счет быстро, 10-15 минут в среднем.",
+        "url": "https://flamp.ru/r/4504128908426589/7781481",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Илья",
+            "id": "4733081",
+            "last_name": null,
+            "name": "Илья",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 1,
+            "url": "http://flamp.ru/user4733081"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7775898",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-07-20T21:18:37.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "34308571",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 4,
+        "region_id": 32,
+        "source": null,
+        "text": "2 года назад открыл ИП. Долго к этому шел. Сейчас доставляем прекрасные букеты цветов по всему городу. Доставщики у меня постоянные, доверяю их машины только компании роснефть. Топливные карты роснефть от РН-карт завели быстро. Пользуемся скидками, специальными предложениями. Исполнение идеи на отлично. Во многом упросило работу руководителя.",
+        "url": "https://flamp.ru/r/4504128908426589/7775898",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "dima68",
+            "id": "4210503",
+            "last_name": null,
+            "name": "dima68",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/e4c8690dbcc582eebc91982ba2bffba4_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/e4c8690dbcc582eebc91982ba2bffba4_320.jpg",
+                "640x": "https://cdn1.flamp.ru/e4c8690dbcc582eebc91982ba2bffba4_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/e4c8690dbcc582eebc91982ba2bffba4_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/e4c8690dbcc582eebc91982ba2bffba4.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 18,
+            "url": "http://flamp.ru/user4210503"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7769333",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-07-17T18:38:21.0+07:00",
+        "date_edited": "2022-07-18T15:03:51.0+07:00",
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "34184063",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 4,
+        "region_id": 32,
+        "source": null,
+        "text": "Я оставил прошлое портного и открыл свою компанию по изготовлению мужских костюмов. Сначала набрал штат изготовителей. Получить готовое изделие можно было только придя в салон. Доставки не было вообще. И вот прошло 7 лет и пол года назад я открыл доставки в другие города. Почтой не пользуемся, товары доставляются на микроавтобусе, иногда на обычных машинах, в редких случаях на автофургонах, если доставка крупная. Водители у меня пользуются топливными картами от РН-карт. Удаленная работа с ними возможна, а для меня это главный критерий. Я могу на большом расстоянии от водителя посмотреть когда он заправлялся, где и чем. А в любой момент еще и готовый отчет под рукой.",
+        "url": "https://flamp.ru/r/4504128908426589/7769333",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Михаил",
+            "id": "4727106",
+            "last_name": null,
+            "name": "Михаил",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 1,
+            "url": "http://flamp.ru/user4727106"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7760583",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-07-13T01:04:04.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "33892098",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Я бы не хотел ничего менять в работе компании роснефть, даже если мог бы. Обслуживание, сервис, топливо - все на высшем уровне. С РН-карт такая же история. Они предоставляют отличный продукт в виде топливных карт. Эти карты я активно использую в работе. Я владею компанией по доставке и сбору кухонных гарнитуров. У водителей автофургонов карты есть уже несколько лет. Они облегчают работу мне, и делают комфортней работу водителей. Это происходит из-за большого количества различных функций, которые есть в приложении. Все удобные и актуальные. Я и водители довольны.",
+        "url": "https://flamp.ru/r/4504128908426589/7760583",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Артем Соколов",
+            "id": "4674257",
+            "last_name": null,
+            "name": "Артем Соколов",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 14,
+            "url": "http://flamp.ru/user4674257"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7735492",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-06-30T02:21:26.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "33436817",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "К сожалению, я узнала о карте недавно. У меня молодой таксопарк. Топливные карты роснефть отлично подходят для области доставок, грузоперевозок, или же для такси. Я оформила карту таксистам. Против никто не был, многие были знакомы с таким видом работы. Мне часто приходится уезжать во семейным делам в другой город на несколько дней, а то и на неделю. Дистанционная работа с картой очень удобна. Больше не нужно требовать с водителей чеки и сдачу. На большом расстоянии могу в онлайн режиме проверить кто и на сколько заправлялся. Пополнить счета карт тоже есть возможность из другого города. Очень удобно.",
+        "url": "https://flamp.ru/r/4504128908426589/7735492",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "vikki1990vikki",
+            "id": "4688889",
+            "last_name": null,
+            "name": "vikki1990vikki",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 1,
+            "url": "http://flamp.ru/user4688889"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7728570",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-06-27T11:32:48.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "33327726",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Рад сотрудничать с такой стабильной и серьезной компанией как роснефть. Я являюсь руководителем в компании по доставке мебели. Узнал о топливных картах от РН-карт несколько лет назад. Оформил каждому сотруднику. С этого момента не встречался с трудностями заполнения отчета и нечестными работниками. Дружелюбная атмосфера с работниками начинается с честности.",
+        "url": "https://flamp.ru/r/4504128908426589/7728570",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Alex",
+            "id": "4671986",
+            "last_name": null,
+            "name": "Alex",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 3,
+            "url": "http://flamp.ru/user4671986"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7725203",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-06-25T03:33:47.0+07:00",
+        "date_edited": "2022-06-25T03:34:51.0+07:00",
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "33269196",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 4,
+        "region_id": 32,
+        "source": null,
+        "text": "Я активно пользуюсь услугами от РН-карт и роснефти уже на протяжении 7 лет. Я занимаюсь доставкой посуды по всей России. Доставки бывают несколько раз в день. Поэтому мной было решено, что каждый сотрудник получит топливную карту от РН-карт. Я не отказываюсь от своего решения даже спустя большое количество времени. Карта позволяет забыть о некоторых дополнительных делах: отчетность, подготовка денег каждому сотруднику, сбор чеков после поездки, пересчет сдачи. В совокупности это занимает реально много времени. Теперь я больше времени уделяю более важным делам. От водителей негатива не слышал.",
+        "url": "https://flamp.ru/r/4504128908426589/7725203",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Денис Кучер",
+            "id": "4704665",
+            "last_name": null,
+            "name": "Денис Кучер",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 1,
+            "url": "http://flamp.ru/user4704665"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7722938",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-06-24T06:12:11.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "33233912",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Я оформлял карты от РН-карт на 73 человека. Удивила оперативность работы, так как через 5 дней я уже получил и раздал их каждому в руки. Стараемся брать все возможности и не пропускать скидки и акции. В приложении могу посмотреть сразу готовый отчет, мне осталось только закидывать деньги на счет. Для водителей есть свои фишки. Они могут проводить оплату не выходя из машины, круто, не только если занимаешься своим здоровьем, но и сильно устал. Эту функцию особенно любят в моей компании работники, которым сложно дается контакт с людьми. А карта с АЗС помогает в тот момент, когда поехал в незнакомый город. Благо заправок куча.",
+        "url": "https://flamp.ru/r/4504128908426589/7722938",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Shamil Shayliev",
+            "id": "4699354",
+            "last_name": null,
+            "name": "Shamil Shayliev",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/dae89c60483742a0e41ef9c035b17c8a_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/dae89c60483742a0e41ef9c035b17c8a_320.jpg",
+                "640x": "https://cdn1.flamp.ru/dae89c60483742a0e41ef9c035b17c8a_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/dae89c60483742a0e41ef9c035b17c8a_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/dae89c60483742a0e41ef9c035b17c8a.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 2,
+            "url": "http://flamp.ru/user4699354"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7720277",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-06-22T22:39:09.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "33189014",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Я руководитель компании по доставке мебели. Нефтегазовые корпорации тесно связаны с нашим бизнесом. Для сотрудничества в свое время я выбрал компанию роснефть. Это было 7 лет назад, но даже спустя это время мы продолжаем совместную работу. На каждого сотрудника оформлена топливная карта роснефть от РН-карт. Я был от нее в приятном шоке. Она помогает мне экономить время и даже средства. Работники часто хорошо откликались. Я долго к ней привыкал, но уже 5 лет пользуюсь и считаю, что ничем не могу ее заменить. Я привык работать с готовыми отчетами и всегда знать кто, что и сколько потратил.",
+        "url": "https://flamp.ru/r/4504128908426589/7720277",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Тарас",
+            "id": "4701701",
+            "last_name": null,
+            "name": "Тарас",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 1,
+            "url": "http://flamp.ru/user4701701"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7715994",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-06-21T05:43:49.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "32955014",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 4,
+        "region_id": 32,
+        "source": null,
+        "text": "Не зря “Роснефть” одна из самых успешных нефтегазовых компаний. Приятно работать с профессионалами. Карты от Рн-карт оформлял сразу для всех подчиненных. Открыл свое ИП. Занимаемся доставкой бруса. Водители ездят в разные города, карта с расположением АЗС часто выручает. Мне легче следить за расходами. Твердое отлично.",
+        "url": "https://flamp.ru/r/4504128908426589/7715994",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Shamil Shayliev",
+            "id": "4699354",
+            "last_name": null,
+            "name": "Shamil Shayliev",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/dae89c60483742a0e41ef9c035b17c8a_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/dae89c60483742a0e41ef9c035b17c8a_320.jpg",
+                "640x": "https://cdn1.flamp.ru/dae89c60483742a0e41ef9c035b17c8a_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/dae89c60483742a0e41ef9c035b17c8a_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/dae89c60483742a0e41ef9c035b17c8a.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 2,
+            "url": "http://flamp.ru/user4699354"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7711923",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-06-19T02:23:46.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "32888199",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Мне сложно проводить сравнение нефтегазовых компаний, потому что всю жизнь только и пользовался, что роснефтью. Стабильная компания с постоянно улучшающимся сервисом и обслуживанием. Я руководитель компании доставок, у водителей, как и у меня, есть топливные карты роснефть от РН-карт. Сам отзываюсь хорошо и то же самое слышу от работников",
+        "url": "https://flamp.ru/r/4504128908426589/7711923",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Mura Veinik",
+            "id": "4692080",
+            "last_name": null,
+            "name": "Mura Veinik",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/7943c678d0e226b7a821e1810530fbfe_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/7943c678d0e226b7a821e1810530fbfe_320.jpg",
+                "640x": "https://cdn1.flamp.ru/7943c678d0e226b7a821e1810530fbfe_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/7943c678d0e226b7a821e1810530fbfe_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/7943c678d0e226b7a821e1810530fbfe.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 3,
+            "url": "http://flamp.ru/user4692080"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7690121",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-06-08T04:29:06.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "32522549",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "По связям мне сразу досталась руководящая должность, без изнурительных лет работы. Компания занимается доставкой мебели из дерева по всей России. Расходы на топливо большие. Продукт от роснефти устраивает полностью. Топливные карты от РН-карт были выданы всем сотрудникам еще до начала доставок. Суммарно экономия большая. С такими расходами топлива экономия ощутима. Сам ознакомился с ними подробно только после получения должности. В рамках договора карту завел и себе для личных целей.Доволен как слон.",
+        "url": "https://flamp.ru/r/4504128908426589/7690121",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Светлана",
+            "id": "4684264",
+            "last_name": null,
+            "name": "Светлана",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 2,
+            "url": "http://flamp.ru/user4684264"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7671905",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-05-30T10:57:58.0+07:00",
+        "date_edited": "2022-05-30T10:58:55.0+07:00",
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "32227210",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Начиная реализацию своей идеи(компания по грузоперевозкам), я сразу выбрала сеть заправок “Роснефть”. Для того чтобы машина ездила исправно нужно: 1. Качественное топливо. 2. Регулярное ТО. Карты роснефть от РН-карт выдал сотрудникам не сразу. Для начала сам попользовался и проверил - не бесполезна ли она. Оказалось пользы предостаточно. Небольшие суммы действительно можно сэкономить, если заправляться по этой ТК. Так как компания еще молодая, я не могу сделать глобальных выводов, но то, что сэкономить реально - это факт.",
+        "url": "https://flamp.ru/r/4504128908426589/7671905",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Женя Шелест",
+            "id": "4672580",
+            "last_name": null,
+            "name": "Женя Шелест",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 26,
+            "url": "http://flamp.ru/user4672580"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7671345",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-05-29T22:21:20.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "32216382",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Ничего плохого сказать не могу. Меня всегда интересует мнение моих подчинённых на счет того, как прошла доставка, как машина чувствовала себя в пути и тд. Ни разу не слышал того, что с кем-то плохо обошлись, нагрубили или не ответили на интересующий вопрос. Да и лично с таким не встречался. Как только узнал о картах роснефть от РН-карт, сразу завел ее всем водителям. Довольны обе стороны. Мне существенно облегчило расчет расходов. Работники больше не боятся потерять деньги. Если потерял карту, то можно позвонить на горячую линию и попросить заблокировать, это можно сделать и в личном кабинете.",
+        "url": "https://flamp.ru/r/4504128908426589/7671345",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Евгения",
+            "id": "4302408",
+            "last_name": null,
+            "name": "Евгения",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 17,
+            "url": "http://flamp.ru/user4302408"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7660433",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-05-24T14:18:25.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "32039413",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 4,
+        "region_id": 32,
+        "source": null,
+        "text": "Стаж работы ювелиром у меня уже 17 лет. Мои изделия в большом количестве скупает компания в Москве. Так как я живу не так далеко, чтобы отправлять изделия на самолете, и не так близко, чтобы отвозить их самому я нанимаю человека, который на машине в течении полутора суток передает украшения. Дело не из дешевых, но после плачевых опытов с почтой, я понял, что это самый верный вариант. Чтобы экономить хотя бы небольшую сумму денег, всегда даю свою топливную карту от РН-карт в дорогу. Качество меня устраивает, пользуюсь нечасто, но помогает положить лишнюю копеечку себе в карман. Расходы все отслеживаются легко.",
+        "url": "https://flamp.ru/r/4504128908426589/7660433",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Nikita Poroshkov",
+            "id": "4663715",
+            "last_name": null,
+            "name": "Nikita Poroshkov",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/f7afdbf218dcd173c8ad32fc4330445d_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/f7afdbf218dcd173c8ad32fc4330445d_320.jpg",
+                "640x": "https://cdn1.flamp.ru/f7afdbf218dcd173c8ad32fc4330445d_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/f7afdbf218dcd173c8ad32fc4330445d_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/f7afdbf218dcd173c8ad32fc4330445d.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 2,
+            "url": "http://flamp.ru/user4663715"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7651785",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-05-19T22:27:23.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "29737126",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "4504128908426589",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 4,
+        "region_id": 32,
+        "source": null,
+        "text": "Очень интересное оформление на картах. Мне понравилось. Делают их быстро, наша компания получила менее, чем через неделю их. Поддержка работает постоянно, что для меня показатель профессионализма. Пока разбирался со всеми настройками, звонил им несколько раз и всегда быстро отвечали.",
+        "url": "https://flamp.ru/r/4504128908426589/7651785",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Daniil Prokofyev",
+            "id": "2813700",
+            "last_name": null,
+            "name": "Daniil Prokofyev",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/aefe314b054fd5a0b4f66ac8956715eb_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/aefe314b054fd5a0b4f66ac8956715eb_320.jpg",
+                "640x": "https://cdn1.flamp.ru/aefe314b054fd5a0b4f66ac8956715eb_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/aefe314b054fd5a0b4f66ac8956715eb_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/aefe314b054fd5a0b4f66ac8956715eb.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 7,
+            "url": "http://flamp.ru/user2813700"
+        }
+    }
+]

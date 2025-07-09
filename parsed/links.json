@@ -1,0 +1,65 @@
+{
+  "petrol": {
+    "2gis": [
+      "https://public-api.reviews.2gis.com/2.0/branches/4504127916787967/reviews?limit=50&offset=",
+      "&is_advertiser=false&fields=meta.providers,meta.branch_rating,meta.branch_reviews_count,meta.total_count,reviews.hiding_reason,reviews.is_verified,reviews.emojis&without_my_first_review=false&rated=true&sort_by=friends&key=6e7e1929-4ea9-4a5d-8c05-d601860389bd&locale=ru_RU"
+    ],
+    "yandex": "https://yandex.ru/maps/org/peredovyye_platezhnyye_resheniya/103262022758/reviews/?ll=37.521336%2C55.805533&z=7",
+    "rustore": [
+      "https://www.rustore.ru/catalog/app/ru.petrolplus.mobileapp/reviews/page-",
+      "?_rsc=1j87z"
+    ],
+    "playmarket": "https://play.google.com/store/apps/details?id=ru.petrolplus.mobileapp&hl=ru",
+    "otzovik": "https://otzovik.com/reviews/toplivnaya_karta_petrol_plyus/",
+    "yell": "https://www.yell.ru/moscow/com/peredovyie-platejnyie-resheniya_4544791/reviews/"
+  },
+  "opti24": {
+    "otzovik": "https://otzovik.com/reviews/toplivnaya_karta_gazpromneft_opti_24/",
+    "rustore": ["https://www.rustore.ru/catalog/app/com.gpncard.gpnkp/reviews/page-", "?_rsc=1j87z"]
+  },
+  "e1card": {
+    "yandex": "https://yandex.ru/maps/org/e1_card/158246068510/reviews/?ll=37.506307%2C55.737922&z=16",
+    "otzovik": "https://otzovik.com/reviews/toplivnaya_karta_e100/",
+    "2gis": [
+      "https://public-api.reviews.2gis.com/2.0/branches/70000001027065915/reviews?limit=50&offset=",
+      "&is_advertiser=false&fields=meta.providers,meta.branch_rating,meta.branch_reviews_count,meta.total_count,reviews.hiding_reason,reviews.is_verified,reviews.emojis&without_my_first_review=false&rated=true&sort_by=friends&key=6e7e1929-4ea9-4a5d-8c05-d601860389bd&locale=ru_RU"
+    ],
+    "zoon": "https://zoon.ru/msk/internet/kompaniya_e1_card/reviews/",
+    "yell": "https://www.yell.ru/moscow/com/e100_14441251/reviews/",
+    "playmarket": "https://play.google.com/store/apps/details?id=ru.e1card.e1app&hl=ru"
+  },
+  "likard": {
+    "yandex": "https://yandex.ru/maps/org/likard/2184251443/reviews/?ll=37.617700%2C55.755874&z=8",
+    "rustore": [
+      "https://www.rustore.ru/catalog/app/com.licard.b2b/reviews/page-",
+      "?_rsc=1j87z"
+    ],
+    "playmarket": "https://play.google.com/store/apps/details?id=com.licard.b2b&hl=ru"
+  },
+  "rn-kart": {
+    "2gis": [
+      "https://public-api.reviews.2gis.com/2.0/branches/4504128908426589/reviews?limit=50&offset=",
+      "&is_advertiser=false&fields=meta.providers,meta.branch_rating,meta.branch_reviews_count,meta.total_count,reviews.hiding_reason,reviews.is_verified,reviews.emojis&without_my_first_review=false&rated=true&sort_by=friends&key=6e7e1929-4ea9-4a5d-8c05-d601860389bd&locale=ru_RU"
+    ],
+    "yell": "https://www.yell.ru/moscow/com/rn-card_14416102/reviews/",
+    "spr": "https://pfo.spr.ru/branches/ph-kart/reviews/",
+    "otzovik": "https://otzovik.com/reviews/toplivnaya_karta_rosneft_rn-kart/",
+    "yandex": "https://yandex.ru/maps/org/rn_kart/75533924874/reviews/?ll=37.609793%2C55.723232&z=16.61",
+    "playmarket": "https://play.google.com/store/apps/details?id=ru.rncard.virtualcard&hl=ru"
+  },
+  "polniy-bak": {
+    "yandex": "https://yandex.ru/maps/org/toplivnyye_karty_polny_bak/85720311347/reviews/?ll=37.439077%2C55.634746&z=15",
+    "otzovik": "https://otzovik.com/reviews/toplivnaya_karta_azs_tehnologiya_polniy_bak/",
+    "2gis": [
+      "https://public-api.reviews.2gis.com/2.0/branches/70000001062179947/reviews?limit=50&offset=",
+      "&is_advertiser=false&fields=meta.providers,meta.branch_rating,meta.branch_reviews_count,meta.total_count,reviews.hiding_reason,reviews.is_verified,reviews.emojis&without_my_first_review=false&rated=true&sort_by=friends&key=6e7e1929-4ea9-4a5d-8c05-d601860389bd&locale=ru_RU"
+    ],
+    "playmarket": "https://play.google.com/store/apps/details?id=ru.ftcard.app&hl=ru"
+  },
+  "kardeks": {
+    "yell": "https://www.yell.ru/moscow/com/kardeks_11387775/reviews/",
+    "yandex": "https://yandex.ru/maps/org/kardeks/1194700808/reviews/?ll=37.551047%2C55.682949&z=14",
+    "zoon": "https://zoon.ru/msk/business/operator_toplivnyh_beznalichnyh_raschetov_kardeks/reviews/",
+    "otzovik": "https://otzovik.com/reviews/toplivnnie_karti_kardeks/"
+  }
+}

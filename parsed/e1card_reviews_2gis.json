@@ -1,0 +1,3407 @@
+[
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2024-12-22T22:15:16.814508+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "129441211",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2025-01-16T14:40:53.181399+07:00",
+            "id": "40648703",
+            "logo_preview_urls": {},
+            "org_name": "E1 Card, компания",
+            "text": "Наталья, сожалеем, что у вас сложилось негативное впечатление о нашей компании. По факту ситуация несколько иная.\n\nЦена выше стелы есть только на ряде выборочных АЗС. На других сетях согласно индивидуальным условиям, действующим для клиента, есть скидки или цена стелы АЗС.\n\nВы можете подобрать максимально выгодные для вас условия с помощью персонального менеджера. Наши персональные менеджеры на связи с клиентами 24/7. Также круглосуточно доступна горячая линия. \n\nМы готовы дополнительно разъяснить и другие вопросы по работе с топливной картой, если они у вас есть. Пожалуйста, сообщите нам свои контактные данные или номер договора клиента, чтобы персональный менеджер мог с вами связаться (press@e1-card.ru)."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 1,
+        "region_id": 32,
+        "source": null,
+        "text": "Почитал нижеизложенные сказки и чуть не прослезился)) О какой экономии идет речь, если цены по их картам на топливо значительно дороже цены стеллы? В рекламе они красиво поют про приличные скидки, а по факту огромная переплата! Ну и зачем нужна такая карта? Как минимум можно пользоваться простой корпоративной картой и покупать топливо по цене стеллы! Вранье с самого начала сотрудничества!",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Наталья Медведева",
+            "id": "45825502",
+            "last_name": null,
+            "name": "Наталья Медведева",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "d1e7dbe9351346a9bc9892521bb6e43a",
+            "reviews_count": 4,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2024-12-12T01:58:04.594975+07:00",
+        "date_edited": "2024-12-12T02:02:07.990794+07:00",
+        "emojis": [
+            {
+                "count": 2,
+                "date_created": "2024-12-12T01:58:38.872473+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2024-12-22T22:15:31.017683+07:00",
+                        "user": {
+                            "id": "45825502",
+                            "name": "Наталья Медведева",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "d1e7dbe9351346a9bc9892521bb6e43a"
+                        }
+                    },
+                    {
+                        "date_created": "2024-12-12T02:03:35.641183+07:00",
+                        "user": {
+                            "id": "57664770",
+                            "name": "Вадим Кожин",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "a8b8f96ec96f48d3a686084abbaee1bf"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "127102769",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 2,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2024-12-13T21:43:33.349501+07:00",
+            "id": "39203606",
+            "logo_preview_urls": {},
+            "org_name": "E1 Card, компания",
+            "text": "Вадим, нам очень жаль, что у вас сложилось неприятное впечатление о взаимодействии с нашей компанией. Газовых станций в вашем регионе действительно недостаточно, работаем над этим вопросом. Минус на балансе в размере 358 рублей сформировался в связи с оплатой почтовых расходов. Ваша компания не работает по ЭДО, поэтому отчетные документы доставляются посредством Почты России. Пункт об оплате в таком случае почтовых расходов есть в вашем договоре, также об этом информировал ваш персональный менеджер. Вы можете отозвать согласие на отправку вам документов через почту.\nМы готовы дополнительно разъяснить и другие вопросы по работе с топливной картой, если они у вас есть."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 1,
+        "region_id": 32,
+        "source": null,
+        "text": "Не ведитесь на их скидки и бонусы!!! Реальных заправок по которым можно вообще заправиться в регионах нет, одна-две на область и те без скидок. Потом на вашем балансе оказывается минус (откуда то! Да и как такое возможно!?), даже если вы не заправлялись в течение месяца (как произошло у меня)..... сейчас решаю этот вопрос...не советую!!!!",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Вадим Кожин",
+            "id": "57664770",
+            "last_name": null,
+            "name": "Вадим Кожин",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "a8b8f96ec96f48d3a686084abbaee1bf",
+            "reviews_count": 1,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2024-08-11T19:20:23.049428+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "104949878",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Для моей компании топливные карты стали настоящим спасением. Удобная система отчетности и детализация транзакций позволяют легко вести бухгалтерию и сокращают время на обработку документов. Кроме того, возможность ограничения по сумме и частоте заправок помогает контролировать расходы сотрудников и предотвращать перерасход. Я очень доволен своим выбором от Е1 Card.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Михаил Филатов",
+            "id": "56940765",
+            "last_name": null,
+            "name": "Михаил Филатов",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "643ffed525d4419ab06b542a3be61e9e",
+            "reviews_count": 8,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "9101421",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2024-07-24T16:16:52.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "91879214",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Сотрудничаем с компанией Е1 card на протяжении уже более двух лет, хотелось бы отметить высокий уровень профессионализма сотрудников, которые всегда готовы помочь с любыми вопросами и проблемами, связанными с использованием топливных карт. Так же водители отмечают удобное мобильное приложение, которое с каждым разом становиться более удобным и многофункциональным. Теперь можно оплачивать топливо, не выходя из машины, и даже если забыли физическую карту, можно оплатить через приложение без каких-либо проблем.",
+        "url": "https://flamp.ru/r/70000001027065915/9101421",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Макс",
+            "id": "5350599",
+            "last_name": null,
+            "name": "Макс",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 10,
+            "url": "http://flamp.ru/user5350599"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2024-07-12T15:14:46.060157+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "90238831",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Меня многие пугали, мол это развод, что будут подводные камни в виде всяких доп. доплат. А в итоги компания Е1КАРД оказалась настоящим спасением моего бизнеса. С их помощью удалось наконец-то начать нормально вести аналитику расходов и перестать выдавать деньги водителям, теперь просто все пополняю самостоятельно.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Дмитрий Вишневский",
+            "id": "55200540",
+            "last_name": null,
+            "name": "Дмитрий Вишневский",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "bd0b788814514bbd857d4847aae67fec",
+            "reviews_count": 7,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "9045508",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2024-06-20T17:19:08.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "87291601",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Выгодно и быстро, думаю именно из-за этого так и остаемся партнерами компании Е1кард. Отличный сервис, много АЗС на которых можно заправиться с их картой и не терять время на поиск. Поддержка работает на уровне, в любой момент готова оперативно решить наш вопрос без часовых ожиданий. Надеемся, что в ближайшее время расширят количество парковок, которые можно оплатить, а то пока что по нашим маршрутам их не особо много, но это уже придирки.",
+        "url": "https://flamp.ru/r/70000001027065915/9045508",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Анастасия Попова",
+            "id": "4863653",
+            "last_name": null,
+            "name": "Анастасия Попова",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 5,
+            "url": "http://flamp.ru/user4863653"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2024-06-20T17:19:03.243278+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "87291570",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Долго искали нового партнера по топливным картам, решили остановиться на E1card. Ни разу еще не пожалели о своем выборе. Ключевой плюс для нас - личный менеджер, да и в целом, вся служба поддержки, всегда оперативно реагируют на наши запросы и помогают решить проблемы. Приложение огонь, все транзакции на виду, легко все сверять и контролировать..",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Елена Крюкова",
+            "id": "53533914",
+            "last_name": null,
+            "name": "Елена Крюкова",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "12da8e6ae390401f8baea614d7a2cb24",
+            "reviews_count": 16,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2024-05-23T15:54:15.006312+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "83607284",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Доволен топливной картой E1card. Всегда выручает, когда я в дороге. Бонусы и хорошая цена на топливо есть. Отличный сервис поддержки, который меня консультирует по любым вопросам. Удобно все расходы смотреть в личном кабинете, а так же мобильное приложение супер, с функцией оплата топлива без физической карты.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Иван Ефремов",
+            "id": "52899337",
+            "last_name": null,
+            "name": "Иван Ефремов",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "82847d492b504baebf4c987137fd5f10",
+            "reviews_count": 22,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2024-05-17T17:52:43.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "82943911",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Отличная компания ,со своим индивидуальным подходам к клиенту. Есть индивидуальные предложения для разных компаний, будь у тебя автопарк с 10 машинами или с 100.. Всегда найдут подходящее решение которое устроит всех. Топливо отличное, хорошие выгодные условия, все закрывающие документы в одном месте.",
+        "url": "https://flamp.ru/r/70000001027065915/8989082",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Maria Malchanova",
+            "id": "3813133",
+            "last_name": null,
+            "name": "Maria Malchanova",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/e1117affbcd2bfc568ee8c80824504ba_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/e1117affbcd2bfc568ee8c80824504ba_320.jpg",
+                "640x": "https://cdn1.flamp.ru/e1117affbcd2bfc568ee8c80824504ba_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/e1117affbcd2bfc568ee8c80824504ba_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/e1117affbcd2bfc568ee8c80824504ba.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 3,
+            "url": "http://flamp.ru/user3813133"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "8749677",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-12-22T01:14:55.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "68554139",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Наши водители очень довольны топливными картами , особенно мобильным приложением .У компании Е1 Card достаточно обширный функционал, они гибкие подбирают любое решение для разного уровня бизнеса. Большое количество АЗС, хорошее условие на разное вида топлива дает им преимущество перед конкурентами.",
+        "url": "https://flamp.ru/r/70000001027065915/8749677",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Надя Бурунова",
+            "id": "5219635",
+            "last_name": null,
+            "name": "Надя Бурунова",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/588596f051f30ac5f1585a1a1a9b228f_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/588596f051f30ac5f1585a1a1a9b228f_320.jpg",
+                "640x": "https://cdn1.flamp.ru/588596f051f30ac5f1585a1a1a9b228f_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/588596f051f30ac5f1585a1a1a9b228f_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/588596f051f30ac5f1585a1a1a9b228f.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 12,
+            "url": "http://flamp.ru/user5219635"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-12-06T15:38:31.839488+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "67154593",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "В целом, я очень доволен использованием топливных карт компании E1 CARD и могу рекомендовать их - однозначно. Это удобный инструмент для экономии средств на заправках, который позволяет контролировать расходы на топливо всего парка авто.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Паша Климкин",
+            "id": "24304084",
+            "last_name": null,
+            "name": "Паша Климкин",
+            "photo_preview_urls": {
+                "1920x": "https://i1.photo.2gis.com/images/profile/30258560050030140_ea36_1920x.jpg",
+                "320x": "https://i1.photo.2gis.com/images/profile/30258560050030140_ea36_320x.jpg",
+                "640x": "https://i1.photo.2gis.com/images/profile/30258560050030140_ea36_640x.jpg",
+                "64x64": "https://i1.photo.2gis.com/images/profile/30258560050030140_ea36_64x64.jpg",
+                "url": "https://i1.photo.2gis.com/images/profile/30258560050030140_ea36.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "e9344822d1b04de0944b9961d4f60381",
+            "reviews_count": 11,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "8661120",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-11-03T23:31:51.0+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "64170384",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Я водитель больше грузов и перекалесил буквально всю страну вдоль и поперек .На моей памяти были разные скидочные и топливные карты разных производителей. Сейчас я уже больше трех лет работаю постоянно в одной организации и нам выдали карты от Е1 Card. Когда я первый раз загрузил приложение, мне показалась оно неудобным, но со временем нашел много плюсов и теперь всегда пользуюсь эти приложением.",
+        "url": "https://flamp.ru/r/70000001027065915/8661120",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Влад Савин",
+            "id": "4859257",
+            "last_name": null,
+            "name": "Влад Савин",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/7d83ce0226bce6f24b828d1e791df3c4_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/7d83ce0226bce6f24b828d1e791df3c4_320.jpg",
+                "640x": "https://cdn1.flamp.ru/7d83ce0226bce6f24b828d1e791df3c4_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/7d83ce0226bce6f24b828d1e791df3c4_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/7d83ce0226bce6f24b828d1e791df3c4.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 4,
+            "url": "http://flamp.ru/user4859257"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-10-30T14:45:26.165372+07:00",
+        "date_edited": null,
+        "emojis": [],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "63770840",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 0,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Недавно только перешли на топливные карты, могу сразу отметить положительные моменты - это очень функциональный личный кабинет. Куда мы заводим все топливные карты водителей и уже там отслеживаем все действия и настраиваем функционал. А так же хочу выделить E1 ANALYTICS просто незаменимый для руководителей. Советую.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Екатерина Ермолаева",
+            "id": "42440159",
+            "last_name": null,
+            "name": "Екатерина Ермолаева",
+            "photo_preview_urls": {
+                "1920x": "https://i2.photo.2gis.com/images/profile/30258560143947969_6810_1920x.jpg",
+                "320x": "https://i2.photo.2gis.com/images/profile/30258560143947969_6810_320x.jpg",
+                "640x": "https://i2.photo.2gis.com/images/profile/30258560143947969_6810_640x.jpg",
+                "64x64": "https://i2.photo.2gis.com/images/profile/30258560143947969_6810_64x64.jpg",
+                "url": "https://i2.photo.2gis.com/images/profile/30258560143947969_6810.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "efd4179499d8431285610860e54c24af",
+            "reviews_count": 26,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-09-04T15:59:39.265753+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:59:01.084556+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:59:01.084556+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "59444850",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Со стороны руководителя могу отметить отсутствие каких-то либо загвоздок , все решается через одного личного менеджера. Он у нас уже больше двух лет один и тот же, не нужно по каждой отдельной проблеме писать в разные службы. На мой взгляд работа с Е1 CARD лучше, чем с лукойлом (пару лет работали с ними ,но разочаровались и ушли ),так что сравнения есть.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Ксения Рик",
+            "id": "45073077",
+            "last_name": null,
+            "name": "Ксения Рик",
+            "photo_preview_urls": {
+                "1920x": "https://i0.photo.2gis.com/images/profile/30258560114814965_56a6_1920x.jpg",
+                "320x": "https://i0.photo.2gis.com/images/profile/30258560114814965_56a6_320x.jpg",
+                "640x": "https://i0.photo.2gis.com/images/profile/30258560114814965_56a6_640x.jpg",
+                "64x64": "https://i0.photo.2gis.com/images/profile/30258560114814965_56a6_64x64.jpg",
+                "url": "https://i0.photo.2gis.com/images/profile/30258560114814965_56a6.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "e122461ab7e14879bdca832f342f8194",
+            "reviews_count": 21,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-08-28T15:38:00.156908+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:59:02.04049+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:59:02.04049+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "58888263",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Пользуемся картой Е1 уже больше двух лет , водители уже привыкли и отказываться от нее не хотят. Очень удобно, что в личном кабинете все отображается, где, на какую сумму и сколько топлива заправился водитель.Пользуемся одними и те ми же заправками и уже знаем какие там скидки и привилегии нас ожидают.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Олег Саитов",
+            "id": "32898046",
+            "last_name": null,
+            "name": "Олег Саитов",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "09a2282463fa445186620c4eb315f2fe",
+            "reviews_count": 25,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-07-07T15:12:52.932414+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:59:03.855897+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:59:03.855897+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "54787250",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Большая сеть АЗС и лучшие условия на топливо - это-то, что делает Е1 CARD нашим постоянным выбором. Большой плюс компании по моему мнению это возможность контроля расходов, используя личный кабинет и мобильное приложение. Словом, Е1 CARD это надежное решение для предприятий, которые нуждаются в доступном и выгодном топливе. Наш выбор пал на эту компанию из-за широкой сети АЗС, и персональных предложений по ценам и по отсрочкам платежей (отдельный плюс за гибкость )",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Алексей Леонов",
+            "id": "42670089",
+            "last_name": null,
+            "name": "Алексей Леонов",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "98261fd77ea14c98b5209f25420b55eb",
+            "reviews_count": 36,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "8372739",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-06-06T23:11:18.0+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:59:07.894688+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:59:07.894688+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "52758762",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Е1 Card предоставляют неплохие условия по топливным картам .Конечно не надо рассчитывать, что топливо у вас выйдет бесплатно ,но хорошая цена при заправки вам точно гарантированно. А как говориться по копейки по копейки и набирается неплохой бонус.. Все устраивает ,ребята молодцы .",
+        "url": "https://flamp.ru/r/70000001027065915/8372739",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Денис",
+            "id": "4075223",
+            "last_name": null,
+            "name": "Денис",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/2f30e36e713ec6479d8ce34f9e10bd68_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/2f30e36e713ec6479d8ce34f9e10bd68_320.jpg",
+                "640x": "https://cdn1.flamp.ru/2f30e36e713ec6479d8ce34f9e10bd68_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/2f30e36e713ec6479d8ce34f9e10bd68_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/2f30e36e713ec6479d8ce34f9e10bd68.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 14,
+            "url": "http://flamp.ru/user4075223"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-04-28T19:03:26.771262+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:59:10.209158+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:59:10.209158+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "50265438",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Нашу логистическую компанию обслуживала одна организация, но со всей ситуации, что происходило в нашей стране, она ушла из страны. И мы стали искать замену, много было пересмотрено компаний . И мы остановились на E100,теперь они Е1 CARD после ребрендинга стали . У них самая приемлемая цена и на обслуживания и на представлении хороших цен на топливо. А так же очень открытая и прозрачная бухгалтерия. При запросе высылают все закрывающие документы которые нужны для отчетов в налоговую. И теперь бухгалтерия сдает все необходимые документы вовремя, что хорошо сказывается на нашу организацию.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Maksim Burov",
+            "id": "41918059",
+            "last_name": null,
+            "name": "Maksim Burov",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "23548192cc834aaeaa5c4af7d3eb003d",
+            "reviews_count": 1,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "8262434",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-04-07T15:55:27.0+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:59:11.294408+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:59:11.294408+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "48557280",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Е100 выбрали за качество сервиса, выбирали по личному рейтингу, читали отзывы, общались с представителями компаний претендентов, изучали адекватность поддержки и грамотность персонала, считайте они свершили 12 подвигов Геракла по нашим критериям прежде, чем мы подписали договор, а после только подтвердили свою прилежность и добропорядочность!",
+        "url": "https://flamp.ru/r/70000001027065915/8262434",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Лиза",
+            "id": "4984679",
+            "last_name": null,
+            "name": "Лиза",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 1,
+            "url": "http://flamp.ru/user4984679"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "8206538",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2023-03-10T15:22:07.0+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:59:13.662474+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:59:13.662474+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "46974652",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-04-04T17:40:28.0+07:00",
+            "id": "16685649",
+            "logo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_1920.png",
+                "320x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_320.png",
+                "640x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_640.png",
+                "64x64": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_64_64.png",
+                "url": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3.png"
+            },
+            "org_name": "E1 Card, компания",
+            "text": "Здравствуйте! Благодарим вас за высокую оценку нашего личного кабинета. Желаем удачи в работе!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "В большой стране – большие сложности. Разница между Европейской и Азиатской частью огромная! Мы по работе и там и там гоняем. Приятно, когда все поездки, аналитика, траты в одном месте собираются, это удобно и значительно упрощает жизнь. Я про кабинет топливной компании Е100, пользуемся их картами уже полгода или даже чуть больше, довольны.",
+        "url": "https://flamp.ru/r/70000001027065915/8206538",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Никита Толовенков",
+            "id": "4811631",
+            "last_name": null,
+            "name": "Никита Толовенков",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/c2f4792360d7171adc7c876b111a676b_1920.png",
+                "320x": "https://cdn1.flamp.ru/c2f4792360d7171adc7c876b111a676b_320.png",
+                "640x": "https://cdn1.flamp.ru/c2f4792360d7171adc7c876b111a676b_640.png",
+                "64x64": "https://cdn1.flamp.ru/c2f4792360d7171adc7c876b111a676b_64_64.png",
+                "url": "https://cdn1.flamp.ru/c2f4792360d7171adc7c876b111a676b.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 8,
+            "url": "http://flamp.ru/user4811631"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2023-01-11T18:03:58.860136+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:57:38.956751+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:57:38.956751+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "43609316",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Читайте-не читайте, а по мне пока сам не проверишь, не поймёшь как всё работает. То же касается и бизнеса. Всё методом проб. Но вижу, люди читают, значит надо поделиться своим опытом. Внедрили систему быстро достаточно, нам помогал специальный менеджер со стороны Е100, отдельный ему привет и благодарность! Значит так, в специальном приложении строим маршрут, сразу смотрим расстояние от заправки к заправке, чтобы выбрать лучший путь с наименьшими тратами. Также из приложения получаем информацию во сколько, где и на сколько кто у нас заправился, это всё выгружаем, передаём в бухгалтерию. Ещё периодически строим наглядные отчеты, чтобы видеть рост. Компания отличная, лично советую!",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Алексей Сивов",
+            "id": "31814878",
+            "last_name": null,
+            "name": "Алексей Сивов",
+            "photo_preview_urls": {
+                "1920x": "https://i3.photo.2gis.com/images/profile/30258560087184564_a9a4_1920x.jpg",
+                "320x": "https://i3.photo.2gis.com/images/profile/30258560087184564_a9a4_320x.jpg",
+                "640x": "https://i3.photo.2gis.com/images/profile/30258560087184564_a9a4_640x.jpg",
+                "64x64": "https://i3.photo.2gis.com/images/profile/30258560087184564_a9a4_64x64.jpg",
+                "url": "https://i3.photo.2gis.com/images/profile/30258560087184564_a9a4.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "4401bd0d55504ac6b66fe62d8704ec63",
+            "reviews_count": 60,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "8057325",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-12-16T21:04:40.0+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:57:42.784613+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:57:42.784613+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "42469094",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-04-04T17:41:46.0+07:00",
+            "id": "16685695",
+            "logo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_1920.png",
+                "320x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_320.png",
+                "640x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_640.png",
+                "64x64": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_64_64.png",
+                "url": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3.png"
+            },
+            "org_name": "E1 Card, компания",
+            "text": "Здравствуйте! Спасибо, что выбираете топливные карты Е100. Будем и дальше предлагать вам самые выгодные условия."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "На некоторых АЗС топливо по карте Е100, во много раз ниже чем в том самом лукойле . Сначала я не верил пока сам не убедился в этом. Делал эксперимент, на одной и той же АЗС заправлялся с картой и без ..вышло ощутимое преимущество.. Так что с топливной картой заправляться выгодно!",
+        "url": "https://flamp.ru/r/70000001027065915/8057325",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Тимирязев Денис",
+            "id": "1751910",
+            "last_name": null,
+            "name": "Тимирязев Денис",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 31,
+            "url": "http://flamp.ru/user1751910"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-12-14T16:37:02.110922+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:57:45.562081+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:57:45.562081+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "42354395",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Советовал топливную карту своим знакомым, у них небольшой автопарк только начинают свой бизнес. Вот уже прошло пол года, недавно встречались с ним …говорит, что все круто не зря прислушался к моим советам . Лучше заплатит немного больше за безопасность и комфорт ,чем потом расхлебывать последствия своей жадности. Я очень рад, что мой совет помог, и спасибо топливной карте Е100.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Владимир Куранов",
+            "id": "27058195",
+            "last_name": null,
+            "name": "Владимир Куранов",
+            "photo_preview_urls": {
+                "1920x": "https://i3.photo.2gis.com/images/profile/30258560059842143_8743_1920x.jpg",
+                "320x": "https://i3.photo.2gis.com/images/profile/30258560059842143_8743_320x.jpg",
+                "640x": "https://i3.photo.2gis.com/images/profile/30258560059842143_8743_640x.jpg",
+                "64x64": "https://i3.photo.2gis.com/images/profile/30258560059842143_8743_64x64.jpg",
+                "url": "https://i3.photo.2gis.com/images/profile/30258560059842143_8743.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "ad3cd59ca1c74a72956e5f17e3ccb273",
+            "reviews_count": 37,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "8021667",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-11-28T17:03:47.0+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:57:49.374094+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:57:49.374094+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "40479589",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-04-04T17:50:54.0+07:00",
+            "id": "16686006",
+            "logo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_1920.png",
+                "320x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_320.png",
+                "640x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_640.png",
+                "64x64": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_64_64.png",
+                "url": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3.png"
+            },
+            "org_name": "E1 Card, компания",
+            "text": "Здравствуйте! Очень приятно, что наши топливные карты и аналитика от Е100 помогает вам в работе. По всем вопросам обращайтесь к персональному менеджеру - он всегда поможет и подскажет. Удачи на дорогах!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Нам повезло с личным менеджером в Е100, объясню, что имею ввиду. Мы ввели топливные карты, чтоб оптимизировать расходы, делать аналитику и в целом избавиться от ряда ручных действий, о которых просто и по-человечески иногда забывали… Для некоторых сотрудников сложно давались эти перемены, учить персонально каждого водителя сверх общего тренинга, который мы провели дважды, казалось невозможным. Решением оказалось дать номер личного менеджера в Е100 некоторым водителям на случай, если наша помощь окажется недостаточной. Помогло, напряжение из-за нововведений спало, работать стало приятнее и удобнее, а главное выгоднее!",
+        "url": "https://flamp.ru/r/70000001027065915/8021667",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Василий Коптев",
+            "id": "4649720",
+            "last_name": null,
+            "name": "Василий Коптев",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/d52c8b75dca0880236f2f82cd9ba8cc8_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/d52c8b75dca0880236f2f82cd9ba8cc8_320.jpg",
+                "640x": "https://cdn1.flamp.ru/d52c8b75dca0880236f2f82cd9ba8cc8_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/d52c8b75dca0880236f2f82cd9ba8cc8_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/d52c8b75dca0880236f2f82cd9ba8cc8.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 14,
+            "url": "http://flamp.ru/user4649720"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-11-24T17:06:17.123891+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:57:51.062509+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:57:51.062509+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "40286866",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-11-24T18:42:33.189304+07:00",
+            "id": "13720992",
+            "logo_preview_urls": {},
+            "org_name": "E1 Card, компания",
+            "text": "Здравствуйте! Спасибо, Никита, за добрые слова о нашей работе."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Брал карту для компании, и порекомендовал друзьям . Я давненько слышал еще о ней, но вот как год только приобрел. Везде плачу, получается очень хорошая цена на топлива с ней, некоторые спрашивают: «откуда такой сюрприз?», на что отвечаю: «Е100». Дальше – гуглите, после поймете, что такое экономия на топливе. В наше то тем более время самое то. Кстати у них удобное есть сервис называется Fastdata который анализирует затраты на топливо и другие услуги формирует отчет и планирует бюджет .Очень удобно.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Никита Самиров",
+            "id": "38460726",
+            "last_name": null,
+            "name": "Никита Самиров",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "c1876b2770034064a25c1b112d0fb80c",
+            "reviews_count": 7,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-11-02T14:35:34.171013+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:03.837196+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:03.837196+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "39203430",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-11-24T18:44:53.510244+07:00",
+            "id": "13721045",
+            "logo_preview_urls": {},
+            "org_name": "E1 Card, компания",
+            "text": "Здравствуйте, спасибо вам большое за отзыв и высокую оценку. \nРады, что вы довольны нашей топливной картой. Если возникают трудности с приемом карты на АЗС - звоните на горячую линию или вашему персональному менеджеру, вам помогут."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Видел, тут писали, что карта не везде проходит. Азсники в край обнаглели и просто не хотят дать вам возможность сэкономить, поэтому щас некоторые тупо оплату перекрывают специально. Самое печальное, что это невозможно вот так напрямую доказать. Карта работает отлично, я просто сам сталкивался с тем, когда не хотят принимать, поэтому приходилось искать другую заправку. Теперь я для себя определил несколько АЗС где карту принимаю, где хороший сервис и топливо по выгодной цене. А все благодаря компании Е100!",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Вася Пыпкин",
+            "id": "31092698",
+            "last_name": null,
+            "name": "Вася Пыпкин",
+            "photo_preview_urls": {
+                "1920x": "https://i3.photo.2gis.com/images/profile/30258560065939672_b9ec_1920x.jpg",
+                "320x": "https://i3.photo.2gis.com/images/profile/30258560065939672_b9ec_320x.jpg",
+                "640x": "https://i3.photo.2gis.com/images/profile/30258560065939672_b9ec_640x.jpg",
+                "64x64": "https://i3.photo.2gis.com/images/profile/30258560065939672_b9ec_64x64.jpg",
+                "url": "https://i3.photo.2gis.com/images/profile/30258560065939672_b9ec.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "3b79a54743394dde9bccb3db4a8486b4",
+            "reviews_count": 2,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7945273",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-10-18T15:05:06.0+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:06.660168+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:06.660168+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "38479236",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-10-18T15:33:23.0+07:00",
+            "id": "12928069",
+            "logo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_1920.png",
+                "320x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_320.png",
+                "640x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_640.png",
+                "64x64": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_64_64.png",
+                "url": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3.png"
+            },
+            "org_name": "E1 Card, компания",
+            "text": "Здравствуйте! Спасибо, что оставили позитивный отзыв о наших топливных картах. Действительно, бывают такие случаи, что карты не приняли на АЗС, но это бывает крайне редко. Если что - всегда звоните персональному менеджеру или на горячую линию. Вам всегда помогут! Надеемся на долгосрочное сотрудничество с вами."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Так, буду краток, пройдусь просто по системе оплаты. Хорошие скидки на топливо, быстрая система оплаты на АЗС. Но был один случай когда мою карту не приняли на Лукойле, мне менеджер сказал почему не принят ,но я не стал возмущаться ,спешил. Потом у своего менеджера я уточнил по поводу этой ситуации, он сказал, что они не имели права и в следующий раз надо настаивать на оплате топливной картой. В общем если кто-то столкнуться с подобной ситуацией, знайте что делать.",
+        "url": "https://flamp.ru/r/70000001027065915/7945273",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Макар",
+            "id": "4774254",
+            "last_name": null,
+            "name": "Макар",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 46,
+            "url": "http://flamp.ru/user4774254"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7919109",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-10-03T14:56:03.0+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:19.039822+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:19.039822+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "37836812",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-10-17T17:52:40.0+07:00",
+            "id": "12908323",
+            "logo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_1920.png",
+                "320x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_320.png",
+                "640x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_640.png",
+                "64x64": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_64_64.png",
+                "url": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3.png"
+            },
+            "org_name": "E1 Card, компания",
+            "text": "Здравствуйте! Спасибо, что нашли время написать положительный отзыв о нас. Мы рады, что вам все нравится в работе с Е100. Удачи вам!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Товарищи, все же помнят как внедрялся Платоша? А другие трассы с их разными системами? Первые разы едешь и боишься, где платно, где бесплатно, как, куда, чего??? Начальник всё понял, мы ему много видимо жаловались, что забодались. Решение нам, конечно, не очень понравилось, потому что тоже было непонятно, что за карточки, где они работают, где их можно использовать, вопросов сначала стало сильно больше, а потом вопросы закончились, нервозность закончилась, стало всё гладко, просто выполняем свою работу. Карточка эта, которую нам выдали, называется Е100. А если проблемка вдруг какая, то горячая линия спасает все 24 часа в сутки.",
+        "url": "https://flamp.ru/r/70000001027065915/7919109",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Вадим",
+            "id": "4805399",
+            "last_name": null,
+            "name": "Вадим",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/d493a8fa30fa74d46867eb79aa5387a6_1920.png",
+                "320x": "https://cdn1.flamp.ru/d493a8fa30fa74d46867eb79aa5387a6_320.png",
+                "640x": "https://cdn1.flamp.ru/d493a8fa30fa74d46867eb79aa5387a6_640.png",
+                "64x64": "https://cdn1.flamp.ru/d493a8fa30fa74d46867eb79aa5387a6_64_64.png",
+                "url": "https://cdn1.flamp.ru/d493a8fa30fa74d46867eb79aa5387a6.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 1,
+            "url": "http://flamp.ru/user4805399"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7883828",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-09-14T14:41:32.0+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:22.149531+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:22.149531+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "36925139",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2023-04-04T17:55:30.0+07:00",
+            "id": "16686170",
+            "logo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_1920.png",
+                "320x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_320.png",
+                "640x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_640.png",
+                "64x64": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_64_64.png",
+                "url": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3.png"
+            },
+            "org_name": "E1 Card, компания",
+            "text": "Здравствуйте, Михаил! Благодарим вас за положительный отзыв о нас. Будем и дальше уделять особое внимание вашим пожеланиям. По всем возможным вопросам обращайтесь к персональному менеджеру, он всегда поможет. \nНадеемся на долгосрочное плодотворное сотрудничество."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Когда я весь свой автопарк перевел на топливные карты, сколько негатива услышал в свой адрес (и то, что я не доверяю водителя, и считаю, что все обманывают и т д) а я просто решил улучшить наш документооборот, а так же упростить жизнь водителям. Но не все были к этому готовы (( значит было, что скрывать. Много топливных компаний пересмотрел, но больше зацепила меня компания Е100,своей лояльностью к клиенту хорошими фиксированной ценной на топлива т огромной сетью АЗС . Все супер, я доволен!",
+        "url": "https://flamp.ru/r/70000001027065915/7883828",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Михаил Филатов",
+            "id": "4677211",
+            "last_name": null,
+            "name": "Михаил Филатов",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/8f35052c9e9ea42fb133bd2c30522ba7_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/8f35052c9e9ea42fb133bd2c30522ba7_320.jpg",
+                "640x": "https://cdn1.flamp.ru/8f35052c9e9ea42fb133bd2c30522ba7_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/8f35052c9e9ea42fb133bd2c30522ba7_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/8f35052c9e9ea42fb133bd2c30522ba7.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 16,
+            "url": "http://flamp.ru/user4677211"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7835555",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-08-21T16:15:32.0+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:26.482746+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:26.482746+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "35700449",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-08-22T20:07:38.0+07:00",
+            "id": "11826926",
+            "logo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_1920.png",
+                "320x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_320.png",
+                "640x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_640.png",
+                "64x64": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_64_64.png",
+                "url": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3.png"
+            },
+            "org_name": "E1 Card, компания",
+            "text": "Здравствуйте, Марина! Очень приятно получить позитивный отзыв о наших топливных картах. Надеемся, что и в дальнейшем вам будет удобно с нами работать. Спасибо!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Уже не вспомню как, но решили мы с компанией Е100 начать работать по топливным картам. Карточки нам отправили вроде в тот же день, и мы достаточно быстро смогли внедрить новую систему, обкатались без нареканий, если были вопросы – менеджеры поддерживали и помогали в любое время. Радует, что за лимит топливный 0% и эти же карточки можно на платных дорогах использовать!",
+        "url": "https://flamp.ru/r/70000001027065915/7835555",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Марина Матвеева",
+            "id": "4763114",
+            "last_name": null,
+            "name": "Марина Матвеева",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/7b7f1642de9f590897706a1b928acaf7_1920.png",
+                "320x": "https://cdn1.flamp.ru/7b7f1642de9f590897706a1b928acaf7_320.png",
+                "640x": "https://cdn1.flamp.ru/7b7f1642de9f590897706a1b928acaf7_640.png",
+                "64x64": "https://cdn1.flamp.ru/7b7f1642de9f590897706a1b928acaf7_64_64.png",
+                "url": "https://cdn1.flamp.ru/7b7f1642de9f590897706a1b928acaf7.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 1,
+            "url": "http://flamp.ru/user4763114"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-08-10T16:23:56.689819+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:29.692412+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:29.692412+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "35194559",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-08-10T16:47:59.90681+07:00",
+            "id": "11597109",
+            "logo_preview_urls": {},
+            "org_name": "E1 Card, компания",
+            "text": "Здравствуйте, Елена. Благодарим вас, за отзыв! Очень рады, что вам удобно пользоваться возможностями личного кабинета)"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Налоговый вычет. Собрать каждый раз всю документацию это личный ад всех бухгалтеров, поверьте мне. Надо же, чтобы экономика была экономкой, сколько бизнесов погибло на налогах, представить страшно. Я это к чему, у меня сейчас хоть здесь легче стало дышать, отчеты удобные, все документы готовые присылаются вовремя, блага цивилизации же! Если вы ещё не пользуетесь топливными картами, то вы многое теряете. Я рекомендую Е100, потому что они нам больше подошли по условиям оплаты и количеству азс.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Елена",
+            "id": "32921492",
+            "last_name": null,
+            "name": "Елена",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "a833d8029d2640dbac4d4b11fa575853",
+            "reviews_count": 10,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7775953",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-07-20T21:49:52.0+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:32.824744+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:32.824744+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "34309795",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-07-20T22:05:47.0+07:00",
+            "id": "11234127",
+            "logo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_1920.png",
+                "320x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_320.png",
+                "640x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_640.png",
+                "64x64": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_64_64.png",
+                "url": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3.png"
+            },
+            "org_name": "E1 Card, компания",
+            "text": "Здравствуйте, Максим! Большое спасибо за положительную оценку нашей работы. Надеемся, что вам и дальше будет удобно работать с нашими топливными картами и умными сервисами. Всего доброго! :)"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Перерасход топлива это всегда головоломка, как его избежать? Да ещё и не нарваться на плохое качество самого топлива. Е100 предоставил решение: лимиты на топливо суточные или по суммам, по объёмам, блокировка заправки на определенных АЗС, построение маршрута, по которому водители едут в мобильном приложении, а на топливо предоставляются паспорта качества. Считаю удобным решением и весьма логичным, сами бы мы такое приложение не разработали.",
+        "url": "https://flamp.ru/r/70000001027065915/7775953",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Максим",
+            "id": "4722702",
+            "last_name": null,
+            "name": "Максим",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 2,
+            "url": "http://flamp.ru/user4722702"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-07-20T00:38:14.303971+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:35.157656+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:35.157656+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "34276484",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-07-20T22:09:12.181361+07:00",
+            "id": "11234180",
+            "logo_preview_urls": {},
+            "org_name": "E1 Card, компания",
+            "text": "Добрый вечер, Felix. Очень приятно получать обратную связь с высокой оценкой о работе нашей компании. Желаем вам как можно больше позитивных событий при работе с нами. Мы всегда на связи :)"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "На фоне других компаний Е100 конечно выделяется своим подходом к клиенту. У нас очень хороший личный менеджер с самого первого дня. На все вопросы отвечала тактично, вежливо все подробно рассказала о тарифах, о топливных картах их преимущество перед другими. Все дополнительные изменения всегда присылает на почту или звонит лично, что бы рассказать. У меня о компании Е100 только положительные впечатления.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Станислав Илюхин",
+            "id": "31414520",
+            "last_name": null,
+            "name": "Станислав Илюхин",
+            "photo_preview_urls": {
+                "1920x": "https://i3.photo.2gis.com/images/profile/30258560093229551_e28a_1920x.jpg",
+                "320x": "https://i3.photo.2gis.com/images/profile/30258560093229551_e28a_320x.jpg",
+                "640x": "https://i3.photo.2gis.com/images/profile/30258560093229551_e28a_640x.jpg",
+                "64x64": "https://i3.photo.2gis.com/images/profile/30258560093229551_e28a_64x64.jpg",
+                "url": "https://i3.photo.2gis.com/images/profile/30258560093229551_e28a.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "4b5dc238559949488a1ddc74d36ae950",
+            "reviews_count": 21,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-06-24T17:44:32.167741+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:36.974062+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:36.974062+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "33251120",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Похоже это сейчас лучшие топливные карты в России и плюс работают в других странах! Есть оплата дорог, Платон и федеральных трасс, что очень важно. Причем оплатить дорогу можно по-разному и предоплатой и пост оплатой и просто маршрутной картой, на транспондер мы настроили автопополнение. В псковской области тоже удобно на терминале прям картой можно оплатить. Е100 выручат во многих бизнес вопросах, считай избавились от лишней рутины по оплатам, созданию отчетов, все автоматизированно и менеджер персональный помогает если что.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Константин Горелов",
+            "id": "34791729",
+            "last_name": null,
+            "name": "Константин Горелов",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "e7639519033449588bad5580deab5731",
+            "reviews_count": 7,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7705582",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-06-16T00:47:01.0+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:38.45574+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:38.45574+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "32783728",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-06-16T16:43:35.0+07:00",
+            "id": "10657023",
+            "logo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_1920.png",
+                "320x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_320.png",
+                "640x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_640.png",
+                "64x64": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_64_64.png",
+                "url": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3.png"
+            },
+            "org_name": "E1 Card, компания",
+            "text": "Здравствуйте! Спасибо большое за позитивный отзыв о нашей работе. Работаем на благо нашим клиентам)"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Надежный партнёр, логистам удобно и водителям удобно. Водители у нас прям в приложении смотрят сколько им ещё доступно заправиться, где можно, а где им запрет поставили, всё по маршруту тоже смотрят в приложении. А мы в кабинете смотрим, чтобы всё в порядке и по плану, документы выгружаем тоже из кабинета теперь. А ещё, что не маловажно, идёт зачет НДС на топливо.",
+        "url": "https://flamp.ru/r/70000001027065915/7705582",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Валерия Мартынова",
+            "id": "4476600",
+            "last_name": null,
+            "name": "Валерия Мартынова",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 13,
+            "url": "http://flamp.ru/user4476600"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-04-20T14:48:29.733301+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:41.237792+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:41.237792+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "28859410",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-06-07T22:12:55.990758+07:00",
+            "id": "10516569",
+            "logo_preview_urls": {},
+            "org_name": "E1 Card, компания",
+            "text": "Юрий, здравствуйте, спасибо вам большое за отзыв. Примем к сведению ваши пожелания."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Хорошая топливная карта, отличные условия по топливу нет привязанные к бренду, большая сеть АЗС по всей стране. Можно оплачивать картой не только топливо, а так же платные дороги и некоторые автомойки. И минусов, хотелось бы получать скидки на саму продукцию на АЗС.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Юрий Котов",
+            "id": "33477414",
+            "last_name": null,
+            "name": "Юрий Котов",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "c4469a667c5a41d5a647af95a46c69b1",
+            "reviews_count": 5,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-04-15T17:15:01.703693+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:43.650844+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:43.650844+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "28715296",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-06-07T22:14:53.601743+07:00",
+            "id": "10516597",
+            "logo_preview_urls": {},
+            "org_name": "E1 Card, компания",
+            "text": "Георгий, спасибо вам за высокую оценку 😉 Успешной работы!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Цены радуют, как и топливо всегда хорошее качество, недолива у меня никогда не было. Топливная карта уже давно в моем обиходе, приобрела нам их наша организация. В рейсе это просто незаменимая вещь, не надо думать хватит ли у тебя денег, просить кассира пробивать отдельными чеками, это очень неудобно. С Е100 заправляться удобно и прозрачно.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Георгий Трухин",
+            "id": "33392134",
+            "last_name": null,
+            "name": "Георгий Трухин",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "2476a4fbdff7443cb9aa0473ad65e126",
+            "reviews_count": 9,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-04-05T14:38:57.905655+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:44.957468+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:44.957468+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "28420498",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-06-07T22:15:08.516099+07:00",
+            "id": "10516600",
+            "logo_preview_urls": {},
+            "org_name": "E1 Card, компания",
+            "text": "Здравствуйте, Леонид! Спасибо вам за приятный отзыв 🙏👌 Рады стараться."
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Давно искали надежную компанию для бесперебойного обеспечения корпоративного автопарка топливом. Уже больше двух лет это была вечная проблема с топливом, которая мешала нам жить спокойно. Это просто головная боль наших сотрудников и водителей. И год назад было принято решение завести топливные карты для водителей. За эти годы мы перепробовали не одну топливную карту, поначалу они все норм, а потом начинается, то закрывающие документы от них не дождешься, то менеджеры грубят то приложение лагает. И в итоге вот уже год как мы остановились и пользуемся Топливной картой Е100 .У нас замечательный адекватный менеджер. С каждым годом приложение становиться все более удобным адаптивным. Через личный кабинет мы отслеживаем все операции, которые производят водители, а также может определить их местоположение.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Леонид Литвинов",
+            "id": "33227860",
+            "last_name": null,
+            "name": "Леонид Литвинов",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "5699e983f6934569afb1fe2f70fd165f",
+            "reviews_count": 1,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-03-23T18:00:41.128639+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:47.437625+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:47.437625+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "28073610",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Я работаю в компании Е100 ведущим менеджером по привлечению клиентов в отделе международных продаж. Работа очень интересная и насыщенная, я люблю работать в команде, и всегда настроена на высокий результат. Компания очень стабильная и давно на рынке труда, официальное трудоустройство по ТК РФ, полностью белая зарплата. А так же компания проводит корпоративные обучения, по продукту, продажам и прочим навыкам. Работать в такой компании большая удача.",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Екатерина Синявская",
+            "id": "33023506",
+            "last_name": null,
+            "name": "Екатерина Синявская",
+            "photo_preview_urls": {
+                "1920x": "",
+                "320x": "",
+                "640x": "",
+                "64x64": "",
+                "url": ""
+            },
+            "provider": "2gis",
+            "public_id": "55bba291be3644a6a98a5f521bfe04ca",
+            "reviews_count": 20,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": null,
+            "filtered_facts": null,
+            "from_friend": false,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-03-18T15:06:07.049222+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:48.804131+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:48.804131+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "27941442",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-06-08T14:20:07.07593+07:00",
+            "id": "10524919",
+            "logo_preview_urls": {},
+            "org_name": "E1 Card, компания",
+            "text": "Благодарим за добрые слова, мы работаем для вас 😉"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "2gis",
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "Год назад у нас поменялся руководительский состав, и новое руководство решило перевести всех водителей на безналичный расчет с функцией контроля топлива на карты Е100. Выбрали карту Е100 так как очень выгодные у них условия, первое это возможность безналичных платежей на большом количестве заправок, а также большая сеть АЗС, отсрочки платежей, предоставление всех отчетных и закрывающих документов, ну и конечно круглосуточная помощь, как менеджера, так и тех отдел",
+        "url": "",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Василий Марченко",
+            "id": "32910038",
+            "last_name": null,
+            "name": "Василий Марченко",
+            "photo_preview_urls": {
+                "1920x": "https://i9.photo.2gis.com/images/profile/30258560071084526_1390_1920x.jpg",
+                "320x": "https://i9.photo.2gis.com/images/profile/30258560071084526_1390_320x.jpg",
+                "640x": "https://i9.photo.2gis.com/images/profile/30258560071084526_1390_640x.jpg",
+                "64x64": "https://i9.photo.2gis.com/images/profile/30258560071084526_1390_64x64.jpg",
+                "url": "https://i9.photo.2gis.com/images/profile/30258560071084526_1390.jpg"
+            },
+            "provider": "2gis",
+            "public_id": "1da79019a5124f2ba4cce5733eb411ae",
+            "reviews_count": 19,
+            "url": ""
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7494663",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 1,
+        "date_created": "2022-03-01T02:00:37.0+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:52.181557+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:52.181557+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "27531375",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 2,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": {
+            "date_created": "2022-06-16T16:49:25.0+07:00",
+            "id": "10657127",
+            "logo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_1920.png",
+                "320x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_320.png",
+                "640x": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_640.png",
+                "64x64": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3_64_64.png",
+                "url": "https://cdn1.flamp.ru/002a7ca5465a847d126569b5767638d3.png"
+            },
+            "org_name": "E1 Card, компания",
+            "text": "Добрый день, спасибо за позитивный отклик о нас. Мобильное приложение регулярно улучшаем, чтобы вам было удобно и понятно в нем работать. А если возникают вопросы -  можете звонить на горячую линию, коллеги помогут вам. Удачных рейсов!"
+        },
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "На работе раздали топливные карты е100, использую уже около года. Удобное мобильное приложение в зависимости от вида топлива. Обычно использую его для того чтобы найти ближайшие АЗС или спланировать маршрут через нужные заправки. Для хорошей работы нужен интернет а в пути он не всегда есть, но обещали что скоро можно будет им пользоваться и без интернета).",
+        "url": "https://flamp.ru/r/70000001027065915/7494663",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Максим Колесник",
+            "id": "4345331",
+            "last_name": null,
+            "name": "Максим Колесник",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/default-avatar-m_1920.png",
+                "320x": "https://cdn1.flamp.ru/default-avatar-m_320.png",
+                "640x": "https://cdn1.flamp.ru/default-avatar-m_640.png",
+                "64x64": "https://cdn1.flamp.ru/default-avatar-m_64_64.png",
+                "url": "https://cdn1.flamp.ru/default-avatar-m.png"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 6,
+            "url": "http://flamp.ru/user4345331"
+        }
+    },
+    {
+        "additional_data": {
+            "external_id": "7466356",
+            "filtered_facts": null,
+            "has_unresolved_complaints": false,
+            "ip": "",
+            "is_liked": null,
+            "is_unrated_permanently": null,
+            "pin_status": "none",
+            "status_history": [],
+            "user_agent": ""
+        },
+        "comments_count": 0,
+        "date_created": "2022-02-14T14:17:09.0+07:00",
+        "date_edited": null,
+        "emojis": [
+            {
+                "count": 1,
+                "date_created": "2023-10-18T13:58:55.62337+07:00",
+                "id": "green_heart",
+                "is_liked": false,
+                "items": [
+                    {
+                        "date_created": "2023-10-18T13:58:55.62337+07:00",
+                        "user": {
+                            "id": "23714214",
+                            "name": "Денис Снегирев",
+                            "photo_preview_urls": {
+                                "1920x": "",
+                                "320x": "",
+                                "640x": "",
+                                "64x64": "",
+                                "url": ""
+                            },
+                            "public_id": "9627cc0c58024b58ac0a129247c6a5fe"
+                        }
+                    }
+                ]
+            }
+        ],
+        "hiding_reason": null,
+        "hiding_type": null,
+        "id": "27157407",
+        "is_hidden": false,
+        "is_rated": true,
+        "is_verified": false,
+        "likes_count": 1,
+        "object": {
+            "id": "70000001027065915",
+            "type": "branch"
+        },
+        "official_answer": null,
+        "on_moderation": false,
+        "photos": [],
+        "provider": "flamp",
+        "provider_data": {
+            "caption": "Flamp",
+            "icon_url": "https://cachizer1.2gis.com/reviews-logos/984693dc-de95-4acc-8d1b-35d906b17374.png?h={height}&w={width}"
+        },
+        "rating": 5,
+        "region_id": 32,
+        "source": null,
+        "text": "У Е100 оказывается все крупные азс в сети. Есть приложение с личным кабинетом, где можно отслеживать все денежные и топливные передвижения. Получать любую бухгалтерскую отчетность, виден остаток денежных средств на счете. Техническая поддержка всегда на связи 24 часа, один раз звонил в 3 ночи – не с первых гудков, но ответили и помогли",
+        "url": "https://flamp.ru/r/70000001027065915/7466356",
+        "user": {
+            "additional_data": {
+                "email": null
+            },
+            "first_name": "Павел",
+            "id": "2980770",
+            "last_name": null,
+            "name": "Павел",
+            "photo_preview_urls": {
+                "1920x": "https://cdn1.flamp.ru/2d883560767fddd93dd965672f8f3cad_1920.jpg",
+                "320x": "https://cdn1.flamp.ru/2d883560767fddd93dd965672f8f3cad_320.jpg",
+                "640x": "https://cdn1.flamp.ru/2d883560767fddd93dd965672f8f3cad_640.jpg",
+                "64x64": "https://cdn1.flamp.ru/2d883560767fddd93dd965672f8f3cad_64_64.jpg",
+                "url": "https://cdn1.flamp.ru/2d883560767fddd93dd965672f8f3cad.jpg"
+            },
+            "provider": "flamp",
+            "public_id": null,
+            "reviews_count": 4,
+            "url": "http://flamp.ru/user2980770"
+        }
+    }
+]

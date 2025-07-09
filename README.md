@@ -4,19 +4,26 @@
 
 запуск api:
 
+
+
 git init
+
 git remote add origin https://github.com/agabdulline/ppr_khakaton
+
 git pull origin backend
 
-дальнейшие инструкции там в readme
+дальнейшие инструкции в readme ветки backend
 
 
 
 Запустить фронтенд:
 
 git init
+
 git remote add origin https://github.com/agabdulline/ppr_khakaton
+
 git pull origin frontend
 
 npm install
-npm start
+
+npm run dev
